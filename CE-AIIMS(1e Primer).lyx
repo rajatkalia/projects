@@ -1,0 +1,457 @@
+#LyX 2.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 508
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass book
+\begin_preamble
+\usepackage[style=authoryear,backend=biber,refsection=part]{biblatex}
+\addbibresource{Bibliography/introduction.bib}
+\addbibresource{Bibliography/kinematics.bib}
+\addbibresource{Bibliography/lawsofmotion.bib}
+\addbibresource{Bibliography/energyconservation.bib}
+\addbibresource{Bibliography/shm.bib}
+\addbibresource{Bibliography/currentelectricity.bib}
+\addbibresource{Bibliography/lattice.bib}
+\end_preamble
+\use_default_options true
+\begin_modules
+logicalmkup
+initials
+\end_modules
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\graphics default
+\default_output_format pdf2
+\output_sync 0
+\bibtex_command biber
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize a4paper
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic true
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 1in
+\topmargin 2cm
+\rightmargin 1.5cm
+\bottommargin 2cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Competitive Edge ( AIIMS ) - First Edition Primer
+\end_layout
+
+\begin_layout Author
+Rajat Kalia
+\end_layout
+
+\begin_layout Date
+December 07, 2018
+\end_layout
+
+\begin_layout Part*
+Chemistry
+\end_layout
+
+\begin_layout Part
+Physical Chemistry
+\end_layout
+
+\begin_layout Chapter
+States of Matter
+\end_layout
+
+\begin_layout Section
+Single Answer MCQ
+\end_layout
+
+\begin_layout Description
+1.
+\series bold
+[1997]
+\series default
+ The compressibility factor of a gas is defined as Z=PV/nRT .
+ The compressibility factor of an ideal gas is :
+\end_layout
+
+\begin_layout Quote
+(a) zero
+\end_layout
+
+\begin_layout Quote
+(b) infinite
+\end_layout
+
+\begin_layout Quote
+(c) 1
+\end_layout
+
+\begin_layout Quote
+(d) -1
+\end_layout
+
+\begin_layout Description
+2.[2002] The kinetic energy of two moles of 
+\begin_inset Formula $N_{2}$
+\end_inset
+
+ at 
+\begin_inset Formula $27^{o}C$
+\end_inset
+
+ is (
+\begin_inset Formula $R=8.314JK^{-1}mol^{-1}$
+\end_inset
+
+) : 
+\end_layout
+
+\begin_layout Quote
+(a) 5491.6 J
+\end_layout
+
+\begin_layout Quote
+(2) 6491.6 J
+\end_layout
+
+\begin_layout Quote
+(3) 7482.6 J
+\end_layout
+
+\begin_layout Quote
+(4) 8882.4 J
+\end_layout
+
+\begin_layout Chapter
+Atomic Structure
+\end_layout
+
+\begin_layout Section
+Single Answer MCQ
+\end_layout
+
+\begin_layout Description
+1.[1991] The energy of electromagnetic radiation depends on :
+\end_layout
+
+\begin_layout Quote
+(a) amplitude and wavelength
+\end_layout
+
+\begin_layout Quote
+(b) wavelength
+\end_layout
+
+\begin_layout Quote
+(c) amplitude
+\end_layout
+
+\begin_layout Quote
+(d) temperature of medium through which it passes
+\end_layout
+
+\begin_layout Description
+2.[1992] The electronic configuration 
+\begin_inset Formula $1s^{2}$
+\end_inset
+
+, 
+\begin_inset Formula $2s^{2}2p^{6}$
+\end_inset
+
+, 
+\begin_inset Formula $3s^{1}3p^{1}$
+\end_inset
+
+ correctly describes :
+\end_layout
+
+\begin_layout Quote
+(a) ground state of 
+\begin_inset Formula $Na$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+(b) ground state of 
+\begin_inset Formula $Si^{+}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+(c) excited state of 
+\begin_inset Formula $Mg$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+(d) excited state of 
+\begin_inset Formula $Al^{3+}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+3.[1993] The principle, which gives a way to fill the electrons in the available
+ energy level is :
+\end_layout
+
+\begin_layout Quote
+(a) Hund's rule
+\end_layout
+
+\begin_layout Quote
+(b) Pauli's exclusion principle
+\end_layout
+
+\begin_layout Quote
+(c) Aufbau principle
+\end_layout
+
+\begin_layout Quote
+(d) none of the above
+\end_layout
+
+\begin_layout Description
+4.[1993] The probability of finding an electron resideing in a 
+\begin_inset Formula $p_{x}$
+\end_inset
+
+ orbital is not zero : 
+\end_layout
+
+\begin_layout Quote
+(a) in the yz plane
+\end_layout
+
+\begin_layout Quote
+(b) in the xy plane
+\end_layout
+
+\begin_layout Quote
+(c) in the y direction
+\end_layout
+
+\begin_layout Quote
+(d) in the z direction
+\end_layout
+
+\begin_layout Description
+5.[1997] The total number of orbitals in a shell with principal quantum number
+ 'n' is :
+\end_layout
+
+\begin_layout Quote
+(a) 
+\begin_inset Formula $2n$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+(b) 
+\begin_inset Formula $2n^{2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+(3) 
+\begin_inset Formula $n^{2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+(4) 
+\begin_inset Formula $n+1$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+6.[1997] Positron is
+\end_layout
+
+\begin_layout Quote
+(a) electron with +ve charge
+\end_layout
+
+\begin_layout Quote
+(b) a helium nucleus
+\end_layout
+
+\begin_layout Quote
+(c) a nucleus with two protons
+\end_layout
+
+\begin_layout Quote
+(d) a nucleus with one neutron and one proton
+\end_layout
+
+\begin_layout Description
+7.[1997] The configuration 
+\begin_inset Formula $1s^{2}$
+\end_inset
+
+, 
+\begin_inset Formula $2s^{2}2p^{5}$
+\end_inset
+
+, 
+\begin_inset Formula $3s^{1}$
+\end_inset
+
+ shows :
+\end_layout
+
+\begin_layout Quote
+(a) ground state of fluorine
+\end_layout
+
+\begin_layout Quote
+(b) excited state of fluorine
+\end_layout
+
+\begin_layout Quote
+(c) excited state of neon atom
+\end_layout
+
+\begin_layout Quote
+(d) excited state of 
+\begin_inset Formula $O_{2}^{-}$
+\end_inset
+
+ ion
+\end_layout
+
+\begin_layout Description
+8.[1998] Dimensions of Planck's constant are : 
+\end_layout
+
+\begin_layout Quote
+(a) 
+\begin_inset Formula $force\times time$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+(b) 
+\begin_inset Formula $energy\times distance$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+(c) 
+\begin_inset Formula $energy/time$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+(d) 
+\begin_inset Formula $energy\times time$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+9.[1999] Principal, azimuthal and the magnetic quantum numbers are respectively
+ related to :
+\end_layout
+
+\begin_layout Quote
+(a) size, shape and orientation
+\end_layout
+
+\begin_layout Quote
+(b) shape, size and orientation
+\end_layout
+
+\begin_layout Quote
+(c) size, orientation and shape
+\end_layout
+
+\begin_layout Quote
+(d) none of these
+\end_layout
+
+\begin_layout Part*
+Physics
+\end_layout
+
+\begin_layout Part*
+Biology
+\end_layout
+
+\end_body
+\end_document

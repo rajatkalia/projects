@@ -1,0 +1,347 @@
+#LyX 2.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 508
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass book
+\use_default_options true
+\begin_modules
+endnotes
+hanging
+logicalmkup
+theorems-std
+\end_modules
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize a4paper
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 0
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 1in
+\topmargin 1.25in
+\rightmargin 1in
+\bottommargin 1.25in
+\secnumdepth 3
+\tocdepth 1
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+A Complete Course in Vocabulory and Language Sciences - First Edition Primer
+\end_layout
+
+\begin_layout Author
+Rajat Kalia
+\end_layout
+
+\begin_layout Date
+7 December, 2017
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter*
+Preface
+\end_layout
+
+\begin_layout Standard
+We will be using English Script while describing vocabulory from a few languages
+, English (The European and Christian Language), Hindi (Modernised Version
+ of the Language of Magadh Kingdom), Punjabi(Indus Ctivilization Language),
+ Sanskrit (Traditional Indian Language under the popular Vedic Civilizations
+ like that of Rama and Krishna) etc.
+ 
+\end_layout
+
+\begin_layout Standard
+Now the correct meaning of the word is 97% or slightly more , the punjabi
+ meaning.
+ If we have to use a script for writing, It can be English Script so that
+ all scientific terms can be included.
+ Then to see grammer in flow in english we'll call it somewhat sanskritized
+ English , in it we use a particular grammer first , then later create the
+ rules how that work is grammatically appropriate.
+ Then to live in India, we should know hindi too.
+ More languages like Urdu, Arabic, Spanish, French, German, i'd like to
+ learn too in the process and I'd say that the study will be somewhat limiting
+ only to 100% without them and not 100% itself.
+ Then there are people who know farsi too, I obviously don't want to go
+ that far.
+ 
+\end_layout
+
+\begin_layout Part*
+Vocabulary
+\end_layout
+
+\begin_layout Chapter
+Mathematics Related
+\end_layout
+
+\begin_layout Section
+Tri
+\end_layout
+
+\begin_layout Paragraph*
+Meanings
+\end_layout
+
+\begin_layout Standard
+It can mean three , or Gravy, or to use hit-and-trial or work harder, or
+ a bigger plant with a thick stem(e.g.
+ a Pandori)
+\end_layout
+
+\begin_layout Paragraph
+Other Related Words
+\end_layout
+
+\begin_layout Standard
+tati - 30 ( one tenth of 300 ), excreta(or those who work in this domain,
+ maybe studying it.) etc.
+ , a textile engineer girl.
+ , stammering badly when asking for tea.
+ ( Although Sonia Sood (a bakhtawar and my childhood girlfriend) born on
+ 30th November is an exception, corresponding to 28 May.
+ Most shopkeepers celebrated this in 2016 by keeping discounts on 27,28,29
+ November , 2016 )
+\end_layout
+
+\begin_layout Section
+Jama
+\end_layout
+
+\begin_layout Paragraph
+Meanings
+\end_layout
+
+\begin_layout Standard
+Addition, Just born
+\end_layout
+
+\begin_layout Paragraph
+Derived Meanings
+\end_layout
+
+\begin_layout Standard
+Jamadar - The person who knows just addition, or is new in the clan.
+ Although meant for the low education people, this word is used as a slang
+ for the people doing punitive work as cleaners of toilet , floor managers
+ etc implying that Punit Duggal was low in Education.
+ Similarly Umesh Duggal also did Engineering from a lowly college from reservati
+on from his quota for diploma holders and now their sister has gone totally
+ unsensitive towards the failed courses and they do not matter any more
+ to her even when she probably began the degree in 2012 probably.
+ Duggal himself had a job somehow although he didn't look educated.
+ Raj, everybody knows , didn't need and didn't care for any education.
+ 
+\end_layout
+
+\begin_layout Section
+Taksim
+\end_layout
+
+\begin_layout Paragraph
+Meanings
+\end_layout
+
+\begin_layout Standard
+High order mathematical operation of Division, The Mobile has an internal
+ calculater while we used it for talking more, judgement on educational
+ status on the basis of fast calculation of division.
+\end_layout
+
+\begin_layout Section
+Calculus
+\end_layout
+
+\begin_layout Paragraph
+Meaning
+\end_layout
+
+\begin_layout Standard
+Short form for We are Kal's Kul's people.
+ or the Devil(it's hindi slang Kal) Group people.
+ (Here US is not used but us is used meaning We, although some Punjabi songs
+ refer my family as Pakke Amrika wala), means those knowing this type of
+ mathematics naturally and keep experimenting coolly with it are Devil's
+ children.
+ Basically it would be extremely uneconomical for a computer to do one or
+ 10's of additions, subtractions .
+ Or even 30's or so.
+ So, it deals with higher order calculations and doesn't choose additive
+ mathematics.
+ 
+\end_layout
+
+\begin_layout Paragraph
+Derived Words
+\end_layout
+
+\begin_layout Standard
+Calculator - Unless you buy a scientific calculator , it cannot do Calculus,
+ 8th member in the family of Devil, or Neha.
+ Calculus is much higher than Calculator in age and the whole family knows
+ like newton that there should be some method to find the volume of a sphere
+ and naturally comes to it before it is taught in intermediate.
+ 
+\end_layout
+
+\begin_layout Standard
+Kallu Mama - Shitiz Bansal ( as opposed to only Mama, S.S.
+ Johar, the Maternal Uncle) and he also learned some Diffrentiation , Integratio
+n and got admission in IIT.
+\end_layout
+
+\begin_layout Section
+Jacobian
+\end_layout
+
+\begin_layout Paragraph
+Meaning
+\end_layout
+
+\begin_layout Standard
+Matka(With a master's degree) or People doing higher studies than encountered
+ by us.
+ or Ye Cobi Han .
+ Or this is a copy.(or these are Cobras) Although I have already said in
+ RN's excerpt in my resume , that it's possible that these extreme knowledge
+ tools have some use for God.
+ But not for normal humans who can't feel or interpret these tools physically
+ as to what they mean.
+ But definitly they can be very useful at God's level when whole of the
+ knowledge is required for him.
+ But there can be pitfalls for us like the Maxwell theory which has been
+ classified completely rubbish by me so far as it cannot be verified, but
+ it seems later in life I prove it's some part as right, the way they are
+ presently given in books is wrong probably.
+ Though Maxwell's tools those 4 equations if physically interpretted as
+ waves can be very useful in understanding physics, but maybe I'm wrong
+ and those equations don't mean anything .
+ But I remember something of previous births and probably did some matlab
+ work to prove those equations right for my own use.
+ But I have already failed the course in IIT, proving that what was taught
+ in the course was wrong.
+ So, really lots of work pending for me to do in life, proving maxwell's
+ equations and interpretting them physically for my own use.
+ Probably someone explained the meaning of Maxwell's equations to me from
+ my own book in previous births, that's why I was able to fly then and not
+ now in this birth.
+ But most of the times I flied in Previous births, I had to exit the body
+ immediately afterwards in most cases, simply making it more safe to learn
+ such a knowledge just before death or when one's term as a being is about
+ to end and not before that so that one starts flying and loses his cool
+ about the fact that anyone should not fly without proper protection or
+ it can be dangerous.
+ 
+\end_layout
+
+\begin_layout Subsection
+What's it like in the flight experience?
+\end_layout
+
+\begin_layout Standard
+One low lying jet of air comes, and you can adjust your hand to ride on
+ it, it's similar to swimming except the fact that it's much easier than
+ swimming as you don't have to apply any thrust but simply fly with the
+ jet's thrust.
+ But if the jet somehow ends in mid air, you simply fall without getting
+ hurt, but there can be crash landings in case you don't land properly .
+ If however some obstacle comes, it's not to be worried of as the jet would
+ find another passage and not end in the obstacle, and we are simply riding
+ the jet already present in air instead of creating our own jet(the way
+ aeroplanes fly).
+ The only problem is that you probably need to understand the aerodynamics
+ of it using Maxwell's equations and interpret them physically before it
+ actually works.
+ And believe me , all objects are living, so my underwear would learn from
+ seeing me fly and it would be able to fly on itself and can carry a human
+ with it later too.
+ While some people like amit might say that they already fly as birds, but
+ we say it's in a bird's birth not human birth with human unabridged body.
+\end_layout
+
+\begin_layout Subsection
+Is your own education complete ? I mean telling your wife to complete her
+ education before showing up?
+\end_layout
+
+\begin_layout Standard
+It's not M.Tech.
+ It's limiting case of Masters audited by God probably and you should pass
+ it at death only with the honours going on after restart.
+ It involves some extreme arts like being able to fly coz u have studied
+ it, being able to swim because your feet can touch the bottom of any deep
+ reservoir as one ligament is broken , being able to slide down any wall
+ coz your wrist bone is broken.
+ Amongst these only flying is something to be spoken of highly others are
+ merely luck related.
+ So, God would be probably a PHD if he is higher than us.
+ 
+\end_layout
+
+\end_body
+\end_document

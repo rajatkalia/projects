@@ -12234,21 +12234,27 @@ d) 18 m
 
 \begin_layout Quote
 { Hint : For displacement calculations, between 0 - to 4 , area of the positive
- trapesium = (4+2)X4 = 24
+ trapesium = 
+\begin_inset Formula $\dfrac{1}{2}\times\left(2+4\right)\times4$
+\end_inset
+
+ = 12
 \end_layout
 
 \begin_layout Quote
-between 4 - to 8, area of negative trapesium = (2+4)X(-2) = -12.
+between 4 - to 8, area of negative trapesium =
+\begin_inset Formula $\dfrac{1}{2}\times(2+4)\times(-2)$
+\end_inset
+
+ = -6.
 \end_layout
 
 \begin_layout Quote
-So , the answer is +12 , which is not in the options.
- 
+So , the answer is +6
 \end_layout
 
 \begin_layout Quote
-So , the anser is None of these.
- }
+So , a is the correct option.}
 \end_layout
 
 \begin_layout Subsection
@@ -12582,8 +12588,8 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename Images/CC/P-Graphs/3e/Images/KinematicsClassicalApproach/ImagesReduced/Q3-secondequation.jpg
-	scale 50
+	filename Images/CC/P-Graphs/Common/Original/ClassicalApproach/acc-t-graph-3.jpg
+	scale 75
 
 \end_inset
 
@@ -12662,8 +12668,8 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename Images/CC/P-Graphs/3e/Images/KinematicsClassicalApproach/ImagesReduced/Q4-secondequation.jpg
-	scale 50
+	filename Images/CC/P-Graphs/Common/Original/ClassicalApproach/ncertproblem.jpg
+	scale 75
 
 \end_inset
 
@@ -12727,8 +12733,8 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename Images/CC/P-Graphs/3e/Images/KinematicsClassicalApproach/ImagesReduced/Q5-secondequation.jpg
-	scale 50
+	filename Images/CC/P-Graphs/Common/Original/ClassicalApproach/Untitled2.jpg
+	scale 58
 
 \end_inset
 
@@ -12869,8 +12875,8 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename Images/CC/P-Graphs/3e/Images/KinematicsClassicalApproach/ImagesReduced/Q1-accelerationposition.jpg
-	scale 50
+	filename Images/CC/P-Graphs/Common/Original/ClassicalApproach/accelerationposition1.jpg
+	scale 58
 
 \end_inset
 
@@ -12978,14 +12984,18 @@ d) 110 m/s
 \end_layout
 
 \begin_layout Quote
-{ Hint: The answer is 55m/s as calculated in the example above(In the second
- equation section).
- Hence, c) is the correct response.
-\end_layout
+{ Hint: The area under the a-t graph is half the change in 
+\begin_inset Formula $v^{2}$
+\end_inset
 
-\begin_layout Quote
-Answer : c) is the correct answer.
- }
+.
+ Area under the graph is 55.
+ So 
+\begin_inset Formula $v_{max}=\sqrt{110}m/s$
+\end_inset
+
+ .
+ Hence none of the answers is correct }
 \end_layout
 
 \begin_layout Section

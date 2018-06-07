@@ -114,19 +114,6 @@ LatexCommand tableofcontents
 
 \end_layout
 
-\begin_layout Address
-764 41-A , Chd
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset toc
-LatexCommand tableofcontents
-
-\end_inset
-
-
-\end_layout
-
 \begin_layout Part*
 Initiation
 \end_layout
@@ -8601,7 +8588,7 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename Images/CC/P-Graphs/4.1e/Images/KinematicsClassicalApproach/ImagesReduced/Q2-firstequation.jpg
+	filename Images/CC/P-Graphs/4e/Images/KinematicsClassicalApproach/ImagesReduced/Q2-firstequation.jpg
 	scale 50
 
 \end_inset
@@ -8895,21 +8882,27 @@ d) 18 m
 
 \begin_layout Quote
 { Hint : For displacement calculations, between 0 - to 4 , area of the positive
- trapesium = (4+2)X4 = 24
+ trapesium = 
+\begin_inset Formula $\dfrac{1}{2}\times\left(2+4\right)\times4$
+\end_inset
+
+ = 12
 \end_layout
 
 \begin_layout Quote
-between 4 - to 8, area of negative trapesium = (2+4)X(-2) = -12.
+between 4 - to 8, area of negative trapesium =
+\begin_inset Formula $\dfrac{1}{2}\times(2+4)\times(-2)$
+\end_inset
+
+ = -6.
 \end_layout
 
 \begin_layout Quote
-So , the answer is +12 , which is not in the options.
- 
+So , the answer is +6
 \end_layout
 
 \begin_layout Quote
-So , the anser is None of these.
- }
+So , a is the correct option.}
 \end_layout
 
 \begin_layout Standard
@@ -8922,139 +8915,8 @@ Example 5
 
 \end_inset
 
- : A body moves as described by the following v-t graph.
-\end_layout
-
-\begin_layout Standard
-\begin_inset Box Doublebox
-position "t"
-hor_pos "c"
-has_inner_box 1
-inner_pos "t"
-use_parbox 0
-use_makebox 0
-width "72col%"
-special "none"
-height "1in"
-height_special "totalheight"
-thickness "0.4pt"
-separation "3pt"
-shadowsize "4pt"
-framecolor "black"
-backgroundcolor "none"
-status open
-
-\begin_layout Plain Layout
-\begin_inset Graphics
-	filename Images/CC/P-Graphs/4.1e/Images/Kinematics/kinematics5-g.jpg
-	scale 50
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-a) Describe the motion.
-\end_layout
-
-\begin_layout Standard
-b) What is the distance travelled during the motion?
-\end_layout
-
-\begin_layout Standard
-c) What is the average speed for the motion?
-\end_layout
-
-\begin_layout Standard
-\begin_inset Flex Strong
-status open
-
-\begin_layout Plain Layout
-Solution 
-\end_layout
-
-\end_inset
-
-: a) From t=0 to 2, the acceleration was 
-\begin_inset Formula ${\displaystyle a=\frac{\Delta v}{\Delta t}=\frac{3}{2}=1.5\ \text{ms}^{-2}}$
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-From t=2 to 5, the acceleration was 0 ms
-\begin_inset Formula $^{−1}$
-\end_inset
-
- .
-\end_layout
-
-\begin_layout Standard
-The body was neither speeding up nor slowing down.
-\end_layout
-
-\begin_layout Standard
-From t=5 to 8, the acceleration was 
-\begin_inset Formula ${\displaystyle a=\frac{\Delta v}{\Delta t}=\frac{-3}{3}=-1\ \text{ms}^{-2}}$
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-The body was slowing down, so the acceleration was negative.
-\end_layout
-
-\begin_layout Standard
-b) The distance travelled is the area of the trapezoid (trapezium).
-\end_layout
-
-\begin_layout Standard
-\begin_inset Formula ${\displaystyle \text{distance}=\frac{\left(a+b\right)h}{2}=\frac{\left(8+3\right)\left(3\right)}{2}=16.5\ \text{m}}$
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-c) 
-\begin_inset Formula ${\displaystyle \text{average speed}=\frac{\text{distance travelled}}{\text{time taken}}}$
-\end_inset
-
- 
-\begin_inset Formula ${\displaystyle =\frac{16.5}{8}}$
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-=2.1 ms
-\begin_inset Formula $^{−1}$
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Flex Strong
-status open
-
-\begin_layout Plain Layout
-Example 6
-\end_layout
-
-\end_inset
-
- : A speedboat starts from rest, accelerating at 2 ms 
-\begin_inset Formula $−2$
+ : A speedboat starts from rest, accelerating at 2 ms
+\begin_inset Formula $^{−2}$
 \end_inset
 
  for 20 s.
@@ -9100,7 +8962,7 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename Images/CC/P-Graphs/4.1e/Images/Kinematics/ex2.jpg
+	filename Images/CC/P-Graphs/4e/Images/Kinematics/ex2.jpg
 	scale 50
 
 \end_inset
@@ -9190,7 +9052,7 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename Images/CC/P-Graphs/4.1e/Images/Kinematics/ex2c.jpg
+	filename Images/CC/P-Graphs/4e/Images/Kinematics/ex2c.jpg
 	scale 50
 
 \end_inset
@@ -9375,7 +9237,7 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename Images/CC/P-Graphs/4.1e/Images/KinematicsClassicalApproach/ImagesReduced/Q1-secondequation-Answers.jpg
+	filename Images/CC/P-Graphs/4e/Images/KinematicsClassicalApproach/ImagesReduced/Q1-secondequation-Answers.jpg
 	scale 50
 
 \end_inset
@@ -9598,8 +9460,8 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename Images/CC/P-Graphs/4.1e/Images/KinematicsClassicalApproach/ImagesReduced/Q3-secondequation.jpg
-	scale 50
+	filename Images/CC/P-Graphs/Common/Original/ClassicalApproach/acc-t-graph-3.jpg
+	scale 75
 
 \end_inset
 
@@ -9687,8 +9549,8 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename Images/CC/P-Graphs/4.1e/Images/KinematicsClassicalApproach/ImagesReduced/Q4-secondequation.jpg
-	scale 50
+	filename Images/CC/P-Graphs/Common/Original/ClassicalApproach/ncertproblem.jpg
+	scale 75
 
 \end_inset
 
@@ -9761,8 +9623,8 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename Images/CC/P-Graphs/4.1e/Images/KinematicsClassicalApproach/ImagesReduced/Q5-secondequation.jpg
-	scale 50
+	filename Images/CC/P-Graphs/Common/Original/ClassicalApproach/Untitled2.jpg
+	scale 68
 
 \end_inset
 
@@ -9912,8 +9774,8 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename Images/CC/P-Graphs/4.1e/Images/KinematicsClassicalApproach/ImagesReduced/Q1-accelerationposition.jpg
-	scale 50
+	filename Images/CC/P-Graphs/Common/Original/ClassicalApproach/accelerationposition1.jpg
+	scale 58
 
 \end_inset
 
@@ -10000,7 +9862,7 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename Images/CC/P-Graphs/4.1e/Images/KinematicsClassicalApproach/ImagesReduced/Q2-accelerationposition.jpg
+	filename Images/CC/P-Graphs/4e/Images/KinematicsClassicalApproach/ImagesReduced/Q2-accelerationposition.jpg
 	scale 50
 
 \end_inset
@@ -10030,14 +9892,19 @@ d) 110 m/s
 \end_layout
 
 \begin_layout Quote
-{ Hint: The answer is 55m/s as calculated in the example above(In the second
- equation section).
- Hence, c) is the correct response.
-\end_layout
+{ Hint: The area under the a-t graph is half the change in 
+\begin_inset Formula $v^{2}$
+\end_inset
 
-\begin_layout Quote
-Answer : c) is the correct answer.
- }
+.
+ Area under the graph is 55.
+ So 
+\begin_inset Formula $v_{max}=\sqrt{110}m/s$
+\end_inset
+
+ .
+ Hence none of the answers is correct.
+  }
 \end_layout
 
 \begin_layout Subsection
@@ -10115,7 +9982,7 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename Images/CC/P-Graphs/4.1e/Images/KinematicsClassicalApproach/ImagesReduced/Q1-signaccxt.jpg
+	filename Images/CC/P-Graphs/4e/Images/KinematicsClassicalApproach/ImagesReduced/Q1-signaccxt.jpg
 	scale 50
 
 \end_inset
@@ -10207,7 +10074,7 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename Images/CC/P-Graphs/4.1e/Images/KinematicsClassicalApproach/ImagesReduced/Q1-avinseq.jpg
+	filename Images/CC/P-Graphs/4e/Images/KinematicsClassicalApproach/ImagesReduced/Q1-avinseq.jpg
 	scale 50
 
 \end_inset
@@ -10293,7 +10160,7 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename Images/CC/P-Graphs/4.1e/Images/KinematicsClassicalApproach/ImagesReduced/Q1-avinseq-Answer.jpg
+	filename Images/CC/P-Graphs/4e/Images/KinematicsClassicalApproach/ImagesReduced/Q1-avinseq-Answer.jpg
 	scale 50
 
 \end_inset

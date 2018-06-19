@@ -13,6 +13,7 @@
 \addbibresource{Bibliography/CC/P-Graphs/3e/energyconservation.bib}
 \addbibresource{Bibliography/CC/P-Graphs/3e/shm.bib}
 \addbibresource{Bibliography/CC/P-Graphs/3e/currentelectricity.bib}
+\addbibresource{Bibliography/CC/P-Graphs/3e/rayoptics.bib}
 \end_preamble
 \use_default_options true
 \begin_modules
@@ -9648,7 +9649,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/Common/Reduced/reviewkinematics/positionvstime.jpg
-	scale 50
+	scale 72
 
 \end_inset
 
@@ -9720,7 +9721,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/Common/Reduced/reviewkinematics/32.jpg
-	scale 50
+	scale 72
 
 \end_inset
 
@@ -9778,7 +9779,7 @@ has_inner_box 1
 inner_pos "t"
 use_parbox 0
 use_makebox 0
-width "100col%"
+width "72col%"
 special "none"
 height "1in"
 height_special "totalheight"
@@ -9792,7 +9793,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/3e/Images/Kinematics/33.jpg
-	scale 50
+	scale 72
 
 \end_inset
 
@@ -9917,7 +9918,7 @@ has_inner_box 1
 inner_pos "t"
 use_parbox 0
 use_makebox 0
-width "100col%"
+width "72col%"
 special "none"
 height "1in"
 height_special "totalheight"
@@ -10266,7 +10267,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/Common/Reduced/reviewkinematics/velocityvstime.jpg
-	scale 50
+	scale 72
 
 \end_inset
 
@@ -10401,7 +10402,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/Common/Reduced/reviewkinematics/42.jpg
-	scale 50
+	scale 72
 
 \end_inset
 
@@ -10767,7 +10768,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/Common/Reduced/reviewkinematics/49.jpg
-	scale 50
+	scale 72
 
 \end_inset
 
@@ -10834,7 +10835,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/Common/Reduced/reviewkinematics/50.jpg
-	scale 50
+	scale 72
 
 \end_inset
 
@@ -12481,7 +12482,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/Common/Reduced/ClassicalApproach/accelerationvstime.jpg
-	scale 75
+	scale 72
 
 \end_inset
 
@@ -12589,7 +12590,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/Common/Original/ClassicalApproach/acc-t-graph-3.jpg
-	scale 75
+	scale 72
 
 \end_inset
 
@@ -12669,7 +12670,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/Common/Original/ClassicalApproach/ncertproblem.jpg
-	scale 75
+	scale 72
 
 \end_inset
 
@@ -12734,7 +12735,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/Common/Original/ClassicalApproach/Untitled2.jpg
-	scale 58
+	scale 72
 
 \end_inset
 
@@ -12876,7 +12877,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/Common/Original/ClassicalApproach/accelerationposition1.jpg
-	scale 58
+	scale 72
 
 \end_inset
 
@@ -12954,8 +12955,8 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename Images/CC/P-Graphs/3e/Images/KinematicsClassicalApproach/ImagesReduced/Q2-accelerationposition.jpg
-	scale 50
+	filename Images/CC/P-Graphs/Common/Original/ClassicalApproach/acclnvsdisplacement.jpg
+	scale 72
 
 \end_inset
 
@@ -13068,8 +13069,8 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename Images/CC/P-Graphs/3e/Images/KinematicsClassicalApproach/ImagesReduced/Q1-signaccxt.jpg
-	scale 50
+	filename Images/CC/P-Graphs/Common/Original/ClassicalApproach/signofacclnfromxt.jpg
+	scale 72
 
 \end_inset
 
@@ -17533,8 +17534,8 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename Images/CC/P-Graphs/3e/Images/SHM/ellipse.JPG
-	scale 50
+	filename Images/CC/P-Graphs/Common/Original/SHM/ellipse.JPG
+	scale 72
 
 \end_inset
 
@@ -17662,7 +17663,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/Common/Reduced/CurrentElectricity/ohm-meter.jpg
-	scale 75
+	scale 72
 
 \end_inset
 
@@ -17716,7 +17717,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/Common/Reduced/CurrentElectricity/scan240002.jpg
-	scale 75
+	scale 72
 
 \end_inset
 
@@ -17787,7 +17788,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/Common/Reduced/CurrentElectricity/objective1.jpg
-	scale 75
+	scale 72
 
 \end_inset
 
@@ -17854,7 +17855,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/Common/Reduced/CurrentElectricity/objective2.jpg
-	scale 75
+	scale 72
 
 \end_inset
 
@@ -17916,7 +17917,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/Common/Reduced/CurrentElectricity/scan210004.jpg
-	scale 75
+	scale 72
 
 \end_inset
 
@@ -18030,7 +18031,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/Common/Reduced/CurrentElectricity/Untitled2.jpg
-	scale 75
+	scale 72
 
 \end_inset
 
@@ -18118,7 +18119,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/Common/Reduced/CurrentElectricity/Untitled3.jpg
-	scale 75
+	scale 72
 
 \end_inset
 
@@ -18196,7 +18197,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/Common/Reduced/CurrentElectricity/subjective1.jpg
-	scale 75
+	scale 72
 
 \end_inset
 
@@ -18248,8 +18249,8 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename Images/CC/P-Graphs/3e/Images/CurrentElectricity/ImagesReduced/1.jpg
-	scale 50
+	filename Images/CC/P-Graphs/Common/Reduced/CurrentElectricity/1.jpg
+	scale 72
 
 \end_inset
 
@@ -18588,7 +18589,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/3e/Images/RayOptics/1.jpg
-	scale 50
+	scale 58
 
 \end_inset
 
@@ -18744,7 +18745,7 @@ status open
 \begin_inset CommandInset bibtex
 LatexCommand bibtex
 btprint "btPrintCited"
-bibfiles "Bibliography/rayoptics"
+bibfiles "Bibliography/CC/P-Graphs/3e/rayoptics"
 options "plain"
 
 \end_inset

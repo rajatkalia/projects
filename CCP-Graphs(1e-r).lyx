@@ -112,7 +112,7 @@ This book is a research evaluate stuff on Kinematics covering graphs.
 
 \begin_layout Standard
 I would like to thank my family, well wishers for their support and consistent
- encouragement and most of all God for his grace and Guidance.
+ encouragement and most of all God for it's grace and Guidance.
  
 \end_layout
 
@@ -555,7 +555,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/Common/Reduced/ClassicalApproach/accelerationvstime.jpg
-	scale 75
+	scale 72
 
 \end_inset
 
@@ -612,7 +612,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/Common/Original/ClassicalApproach/acc-t-graph-3.jpg
-	scale 75
+	scale 72
 
 \end_inset
 
@@ -681,7 +681,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/Common/Original/ClassicalApproach/ncertproblem.jpg
-	scale 75
+	scale 72
 
 \end_inset
 
@@ -737,7 +737,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/Common/Original/ClassicalApproach/Untitled2.jpg
-	scale 50
+	scale 72
 
 \end_inset
 
@@ -750,6 +750,15 @@ status open
 \end_layout
 
 \begin_layout Subsection
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+The Acceleration-Position Graph Variate
+\end_layout
+
+\end_inset
+
 The Acceleration-Position Graph Variate
 \end_layout
 
@@ -818,7 +827,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/Common/Original/ClassicalApproach/accelerationposition1.jpg
-	scale 58
+	scale 72
 
 \end_inset
 
@@ -873,8 +882,8 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename Images/CC/P-Graphs/1e-1.1e/ImagesReduced/Q2-accelerationposition.jpg
-	scale 50
+	filename Images/CC/P-Graphs/Common/Original/ClassicalApproach/acclnvsdisplacement.jpg
+	scale 72
 
 \end_inset
 
@@ -903,10 +912,28 @@ d) 110 m/s
 \end_layout
 
 \begin_layout Section
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Other Types of Graphs
+\end_layout
+
+\end_inset
+
 Other Types of Graphs
 \end_layout
 
 \begin_layout Subsection
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Sign of Acceleration from Position-Time Graph
+\end_layout
+
+\end_inset
+
 Sign of Acceleration from Position-Time Graph
 \end_layout
 
@@ -963,8 +990,8 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename Images/CC/P-Graphs/1e-1.1e/ImagesReduced/Q1-signaccxt.jpg
-	scale 50
+	filename Images/CC/P-Graphs/Common/Original/ClassicalApproach/signofacclnfromxt.jpg
+	scale 72
 
 \end_inset
 
@@ -1070,6 +1097,15 @@ d) 5 s
 \end_layout
 
 \begin_layout Subsection
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+The Velocity-Displacement Case
+\end_layout
+
+\end_inset
+
 The Velocity-Displacement Case
 \end_layout
 
@@ -1116,7 +1152,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/Common/Reduced/ClassicalApproach/velocitydisplacement.jpg
-	scale 75
+	scale 72
 
 \end_inset
 
@@ -1350,6 +1386,15 @@ status open
 \end_layout
 
 \begin_layout Subsection
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Projectile Motion
+\end_layout
+
+\end_inset
+
 Projectile Motion
 \end_layout
 
@@ -1401,6 +1446,15 @@ status open
 \end_layout
 
 \begin_layout Subsection
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Miscelleneous
+\end_layout
+
+\end_inset
+
 Miscelleneous
 \end_layout
 

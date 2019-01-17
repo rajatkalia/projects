@@ -6647,7 +6647,7 @@ secant
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename Images(MT)/secant.JPG
+	filename Images/CC/P-MT/secant.JPG
 
 \end_inset
 
@@ -6729,7 +6729,7 @@ b) From sec 1 to sec 2 :
 
 \begin_layout Quote
 \begin_inset Graphics
-	filename Images(MT)/table1.jpg
+	filename Images/CC/P-MT/table1.jpg
 	scale 50
 
 \end_inset
@@ -6800,7 +6800,7 @@ Example-2 The Average Growth Rate of a Laboratory Population
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename E:/Books/A Complete Course in Physics/Images(MT)/fruitflies_1.JPG
+	filename Images/CC/P-MT/fruitflies_1.JPG
 	scale 80
 
 \end_inset
@@ -6826,7 +6826,7 @@ gly short time intervals starting at day 23.
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename E:/Books/A Complete Course in Physics/Images(MT)/fruitflies_2.JPG
+	filename Images/CC/P-MT/fruitflies_2.JPG
 	scale 48
 
 \end_inset
@@ -6865,7 +6865,7 @@ Example-3 : A point moves rectilinearly in one direction.
 
 \begin_layout Description
 \begin_inset Graphics
-	filename E:/Books/A Complete Course in Physics/Images(MT)/irodov1.JPG
+	filename Images/CC/P-MT/irodov1.JPG
 
 \end_inset
 
@@ -6942,7 +6942,7 @@ The given formula defines
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename Images(MT)/graph1.JPG
+	filename Images/CC/P-MT/graph1.JPG
 
 \end_inset
 
@@ -7009,7 +7009,7 @@ a
 \color inherit
 
 \begin_inset Graphics
-	filename Images(MT)/table2.JPG
+	filename Images/CC/P-MT/table2.JPG
 	scale 65
 
 \end_inset
@@ -7047,7 +7047,7 @@ Example:
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename Images(MT)/graph3.JPG
+	filename Images/CC/P-MT/graph3.JPG
 	scale 65
 
 \end_inset
@@ -7145,7 +7145,7 @@ c)
 
 \begin_layout Quote
 \begin_inset Graphics
-	filename E:/Books/A Complete Course in Physics/Images(MT)/thomasex.JPG
+	filename Images/CC/P-MT/thomasex.JPG
 
 \end_inset
 
@@ -7187,7 +7187,7 @@ c)
 
 \begin_layout Quote
 \begin_inset Graphics
-	filename E:/Books/A Complete Course in Physics/Images(MT)/thomasex2.JPG
+	filename Images/CC/P-MT/thomasex2.JPG
 
 \end_inset
 
@@ -7234,7 +7234,7 @@ b.
 
 \begin_layout Quote
 \begin_inset Graphics
-	filename E:/Books/A Complete Course in Physics/Images(MT)/thomasex3.JPG
+	filename Images/CC/P-MT/thomasex3.JPG
 
 \end_inset
 
@@ -7436,7 +7436,7 @@ Suppose that
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename Images(MT)/MT.JPG
+	filename Images/CC/P-MT/MT.JPG
 
 \end_inset
 
@@ -7465,7 +7465,7 @@ Example: Given that
 
 \begin_layout Description
 \begin_inset Graphics
-	filename Images(MT)/MT2.JPG
+	filename Images/CC/P-MT/MT2.JPG
 
 \end_inset
 
@@ -7490,7 +7490,7 @@ Application : To prove that
 
 \begin_layout Description
 \begin_inset Graphics
-	filename Images(MT)/book_mt.JPG
+	filename Images/CC/P-MT/book_mt.JPG
 
 \end_inset
 
@@ -7724,7 +7724,7 @@ Example : Consider the function
 
 \begin_layout Description
 \begin_inset Graphics
-	filename Images(MT)/MT3.JPG
+	filename Images/CC/P-MT/MT3.JPG
 
 \end_inset
 
@@ -9178,7 +9178,7 @@ d) None of these.
 
 \begin_layout Quote
 \begin_inset Graphics
-	filename F:/Live/Projects/Images/CC/M/1.1e/Images(Calculus)/ImagesReduced/Comp-CERN-Labs-1.jpg
+	filename Images/CC/M/1.1e/Images(Calculus)/ImagesReduced/Comp-CERN-Labs-1.jpg
 	scale 50
 	clip
 
@@ -9308,7 +9308,7 @@ From adjoining diagram, it is clear that
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename F:/Live/Projects/Images/CC/M/1.1e/Images(Calculus)/ImagesReduced/Comp-CERN-Labs-Solution-1.jpg
+	filename Images/CC/M/1.1e/Images(Calculus)/ImagesReduced/Comp-CERN-Labs-Solution-1.jpg
 	scale 50
 
 \end_inset
@@ -9357,7 +9357,7 @@ Q2: To find the volume of the portion of sphere outside the frustrum, we
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename F:/Live/Projects/Images/CC/M/1.1e/Images(Calculus)/ImagesReduced/Comp-CERN-Labs-Solution-2.jpg
+	filename Images/CC/M/1.1e/Images(Calculus)/ImagesReduced/Comp-CERN-Labs-Solution-2.jpg
 	scale 50
 
 \end_inset
@@ -9478,7 +9478,7 @@ Now we need to subtract the volume of the cone from this volume to get the
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename F:/Live/Projects/Images/CC/M/1.1e/Images(Calculus)/ImagesReduced/Comp-CERN-Labs-Solution-3.jpg
+	filename Images/CC/M/1.1e/Images(Calculus)/ImagesReduced/Comp-CERN-Labs-Solution-3.jpg
 	scale 50
 
 \end_inset
@@ -9506,7 +9506,7 @@ Now we need to subtract the volume of the cone from this volume to get the
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename F:/Live/Projects/Images/CC/M/1.1e/Images(Calculus)/ImagesReduced/Comp-CERN-Labs-Solution-4.jpg
+	filename Images/CC/M/1.1e/Images(Calculus)/ImagesReduced/Comp-CERN-Labs-Solution-4.jpg
 	scale 50
 
 \end_inset
@@ -9779,7 +9779,7 @@ Definition 1: Let I be an open interval contained in the domain of a real
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename Images(MT)/ncappder.JPG
+	filename Images/CC/P-MT/ncappder.JPG
 	scale 60
 
 \end_inset
@@ -10064,7 +10064,7 @@ Note that the slope of the tangent to the curve
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename Images(MT)/tangentnormal.JPG
+	filename Images/CC/P-MT/tangentnormal.JPG
 
 \end_inset
 
@@ -10894,7 +10894,7 @@ Let
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename Images(MT)/stable.JPG
+	filename Images/CC/P-MT/stable.JPG
 
 \end_inset
 
@@ -11132,7 +11132,7 @@ Definition 1
 
 \begin_layout Quote
 \begin_inset Graphics
-	filename Images(MT)/jaishriram.JPG
+	filename Images/CC/P-MT/jaishriram.JPG
 	scale 68
 
 \end_inset
@@ -11179,7 +11179,7 @@ Definition 1
 
 \begin_layout Quote
 \begin_inset Graphics
-	filename Images(MT)/unt.JPG
+	filename Images/CC/P-MT/unt.JPG
 
 \end_inset
 
@@ -11508,7 +11508,7 @@ Comprehension 1: A circular sheet of radius
 
 \begin_layout Description
 \begin_inset Graphics
-	filename F:/Live/Projects/Images/CC/M/1.1e/Images(Calculus)/ImagesReduced/Comp-maxmin-sector-1.jpg
+	filename Images/CC/M/1.1e/Images(Calculus)/ImagesReduced/Comp-maxmin-sector-1.jpg
 	scale 50
 
 \end_inset
@@ -11801,7 +11801,7 @@ Answers: Q1) B Q2)C Q3)D
 
 \begin_layout Quote
 \begin_inset Graphics
-	filename F:/Live/Projects/Images/CC/M/1.1e/Images(Calculus)/ImagesReduced/Comp-maxmin-sector-Sol-1.jpg
+	filename Images/CC/M/1.1e/Images(Calculus)/ImagesReduced/Comp-maxmin-sector-Sol-1.jpg
 	scale 50
 
 \end_inset
@@ -15842,7 +15842,7 @@ Matrix 1:
 
 \begin_layout Quote
 \begin_inset Graphics
-	filename F:/Live/Projects/Images/CC/M/1.1e/Matrix Answers/ImagesReduced/Matrix_Def_integral_1.JPG
+	filename Images/CC/M/1.1e/Matrix Answers/ImagesReduced/Matrix_Def_integral_1.JPG
 	scale 50
 
 \end_inset
@@ -16134,7 +16134,7 @@ For setting up a formula for the integral, it is convenient to take elementary
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename Images(MT)/puplu.JPG
+	filename Images/CC/P-MT/puplu.JPG
 	scale 80
 
 \end_inset
@@ -16213,7 +16213,7 @@ Volumes by Slicing and Rotation About an Axis
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename Images(MT)/nagmawafaka.JPG
+	filename Images/CC/P-MT/nagmawafaka.JPG
 
 \end_inset
 
@@ -16242,7 +16242,7 @@ The volume of a solid of known integrable cross-sectional area A(x) from
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename Images(MT)/volsol.JPG
+	filename Images/CC/P-MT/volsol.JPG
 	scale 60
 
 \end_inset
@@ -16263,7 +16263,7 @@ A pyramid 3 m high has a square base that is 3 m on a side.
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename Images(MT)/narmada.JPG
+	filename Images/CC/P-MT/narmada.JPG
 
 \end_inset
 
@@ -16283,7 +16283,7 @@ onal area function A(x) and the interval [a, b] are the same for both solids.
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename Images(MT)/zooza.JPG
+	filename Images/CC/P-MT/zooza.JPG
 
 \end_inset
 
@@ -16304,7 +16304,7 @@ A curved wedge is cut from a cylinder of radius 3 by two planes.
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename Images(MT)/nukaka.JPG
+	filename Images/CC/P-MT/nukaka.JPG
 
 \end_inset
 
@@ -16378,7 +16378,7 @@ The region between the curve
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename Images(MT)/popat.JPG
+	filename Images/CC/P-MT/popat.JPG
 
 \end_inset
 
@@ -16396,7 +16396,7 @@ Example 5 : The circle
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename Images(MT)/rajat.JPG
+	filename Images/CC/P-MT/rajat.JPG
 	scale 90
 
 \end_inset
@@ -16436,7 +16436,7 @@ Find the volume of the solid generated by revolving the region bounded by
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename Images(MT)/english.JPG
+	filename Images/CC/P-MT/english.JPG
 	scale 50
 
 \end_inset
@@ -16460,7 +16460,7 @@ Find the volume of the solid generated by revolving the region between the
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename Images(MT)/nugoo.JPG
+	filename Images/CC/P-MT/nugoo.JPG
 
 \end_inset
 
@@ -16491,7 +16491,7 @@ Find the volume of the solid generated by revolving the region between the
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename Images(MT)/clog.JPG
+	filename Images/CC/P-MT/clog.JPG
 	scale 60
 
 \end_inset
@@ -16516,7 +16516,7 @@ Solids of Revolution: The Washer Method
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename Images(MT)/washer.JPG
+	filename Images/CC/P-MT/washer.JPG
 	scale 50
 
 \end_inset
@@ -16574,7 +16574,7 @@ Consequently, the definition of volume gives
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename Images(MT)/avyakta.JPG
+	filename Images/CC/P-MT/avyakta.JPG
 
 \end_inset
 
@@ -16600,7 +16600,7 @@ The region bounded by the curve
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename Images(MT)/akhnakh.JPG
+	filename Images/CC/P-MT/akhnakh.JPG
 	scale 80
 
 \end_inset
@@ -16627,7 +16627,7 @@ The region bounded by the parabola
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename Images(MT)/zebrabw.JPG
+	filename Images/CC/P-MT/zebrabw.JPG
 	scale 80
 
 \end_inset
@@ -16669,7 +16669,7 @@ The region enclosed by the x-axis and the parabola
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename Images(MT)/angar.JPG
+	filename Images/CC/P-MT/angar.JPG
 	scale 65
 
 \end_inset
@@ -16679,7 +16679,7 @@ The region enclosed by the x-axis and the parabola
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename Images(MT)/angara.JPG
+	filename Images/CC/P-MT/angara.JPG
 
 \end_inset
 
@@ -16688,7 +16688,7 @@ The region enclosed by the x-axis and the parabola
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename Images(MT)/angaraa.JPG
+	filename Images/CC/P-MT/angaraa.JPG
 	scale 80
 
 \end_inset
@@ -16715,7 +16715,7 @@ The region bounded by the curve
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename Images(MT)/angaar.JPG
+	filename Images/CC/P-MT/angaar.JPG
 	scale 55
 
 \end_inset
@@ -16742,7 +16742,7 @@ The region bounded by the curve
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename Images(MT)/angaara.JPG
+	filename Images/CC/P-MT/angaara.JPG
 	scale 55
 
 \end_inset
@@ -16779,7 +16779,7 @@ For a parametric Curve.
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename Images(MT)/parametric.JPG
+	filename Images/CC/P-MT/parametric.JPG
 	scale 60
 
 \end_inset
@@ -16835,7 +16835,7 @@ Find the length of the astroid
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename Images(MT)/comeonindia.JPG
+	filename Images/CC/P-MT/comeonindia.JPG
 
 \end_inset
 
@@ -16844,7 +16844,7 @@ Find the length of the astroid
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename Images(MT)/lotc.JPG
+	filename Images/CC/P-MT/lotc.JPG
 	scale 60
 
 \end_inset
@@ -16904,7 +16904,7 @@ Surface Area for Revolution about x-axis
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename Images(MT)/sa.JPG
+	filename Images/CC/P-MT/sa.JPG
 	scale 60
 
 \end_inset

@@ -1,0 +1,157 @@
+#LyX 1.6.7 created this file. For more info see http://www.lyx.org/
+\lyxformat 345
+\begin_document
+\begin_header
+\textclass article
+\use_default_options true
+\begin_modules
+endnotes
+foottoend
+logicalmkup
+theorems-std
+\end_modules
+\language english
+\inputencoding auto
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize a4paper
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\cite_engine basic
+\use_bibtopic false
+\paperorientation portrait
+\leftmargin 1in
+\topmargin 1.25in
+\rightmargin 1in
+\bottommargin 1.25in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\defskip medskip
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\author "" 
+\author "" 
+\end_header
+
+\begin_body
+
+\begin_layout Part*
+Mathematics XI
+\end_layout
+
+\begin_layout Subsubsection*
+Time Allowed : 1 Hour ________________________ Maximum Marks : 60
+\end_layout
+
+\begin_layout Standard
+Please read the instructions carefully.
+ You will be alloted 5 minutes specifically for this purpose.
+\end_layout
+
+\begin_layout Subsubsection*
+Instructions
+\end_layout
+
+\begin_layout Subsection*
+A.
+ General
+\end_layout
+
+\begin_layout Quote
+1.
+ Blank papers, clipboards, log tables, slide rules, calculators, cellular
+ phones, pagers, and electronic gadgets in any form are not allowed.
+\end_layout
+
+\begin_layout Quote
+2.
+ Do not break the seals of the question-paper booklet before instructed
+ to do so by the invigilators.
+\end_layout
+
+\begin_layout Subsection*
+B.
+ Question paper format and Marking Scheme :
+\end_layout
+
+\begin_layout Quote
+1.
+ This question paper consists of 6 questions carrying 10 marks each.
+\end_layout
+
+\begin_layout Quote
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Q1: Evaluate 
+\begin_inset Formula $\overset{11}{\underset{k=1}{\sum}}(2+3^{k})$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Q2: If a, b , c and d are in G.P.
+ show that
+\end_layout
+
+\begin_layout Description
+\begin_inset Formula $\left(a^{2}+b^{2}+c^{2}\right)\left(b^{2}+c^{2}+d^{2}\right)=\left(ab+bc+cd\right)^{2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Q3: If A and G be A.M.
+ and G.M., respectively between two positive numbers, prove that the numbers
+ are 
+\begin_inset Formula $A\pm\sqrt{\left(A+G\right)\left(A-G\right)}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Q4: Find the value of n so that 
+\begin_inset Formula $\dfrac{a^{n+1}+b^{n+1}}{a^{n}+b^{n}}$
+\end_inset
+
+ may be the geometric mean between a and b.
+\end_layout
+
+\begin_layout Description
+Q5: Find the sum of the sequence 7, 77, 777, 7777, ...
+ to n terms.
+\end_layout
+
+\begin_layout Description
+Q6: The difference between any two consecutive interior angles of a polygon
+ is 5°.
+ If the smallest angle is 120° , find the number of the sides of the polygon.
+ 
+\end_layout
+
+\end_body
+\end_document

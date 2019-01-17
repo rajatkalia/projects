@@ -1,5 +1,5 @@
-#LyX 2.2 created this file. For more info see http://www.lyx.org/
-\lyxformat 508
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
 \begin_document
 \begin_header
 \save_transient_properties true
@@ -27,6 +27,8 @@ theorems-std
 \font_osf false
 \font_sf_scale 100 100
 \font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures false
 \graphics default
 \default_output_format default
 \output_sync 0
@@ -56,6 +58,7 @@ theorems-std
 \suppress_date false
 \justification true
 \use_refstyle 0
+\use_minted 0
 \index Index
 \shortcut idx
 \color #008000
@@ -68,7 +71,10 @@ theorems-std
 \tocdepth 1
 \paragraph_separation indent
 \paragraph_indentation default
-\quotes_language english
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
 \papercolumns 1
 \papersides 2
 \paperpagestyle default
@@ -213,6 +219,195 @@ States of Matter
 
 \begin_layout Chapter
 The Solid State
+\end_layout
+
+\begin_layout Chapter*
+Test Solid State (NCERT)
+\end_layout
+
+\begin_layout Subsubsection*
+Time Allowed : 1 Hour ________________________ Maximum Marks : 60
+\end_layout
+
+\begin_layout Standard
+Please read the instructions carefully.
+ You will be alloted 5 minutes specifically for this purpose.
+\end_layout
+
+\begin_layout Subsubsection*
+Instructions
+\end_layout
+
+\begin_layout Subsection*
+A.
+ General
+\end_layout
+
+\begin_layout Quote
+1.
+ Blank papers, clipboards, log tables, slide rules, calculators, cellular
+ phones, pagers, and electronic gadgets in any form are not allowed.
+\end_layout
+
+\begin_layout Quote
+2.
+ Do not break the seals of the question-paper booklet before instructed
+ to do so by the invigilators.
+\end_layout
+
+\begin_layout Subsection*
+B.
+ Question paper format and Marking Scheme :
+\end_layout
+
+\begin_layout Quote
+1.
+ This question paper consists of 6 questions carrying 10 marks each.
+\end_layout
+
+\begin_layout Quote
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Q1: Classify each of the following solids as ionic, metallic, molecular,
+ network (covalent) or amorphous.
+ 
+\end_layout
+
+\begin_layout Quote
+(i) Tetra phosphorus decoxide (
+\begin_inset Formula $P_{4}O_{10}$
+\end_inset
+
+)
+\end_layout
+
+\begin_layout Quote
+(ii) Ammonium phosphate 
+\begin_inset Formula $(NH_{4})_{3}PO_{4}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+(iii) SiC
+\end_layout
+
+\begin_layout Quote
+(iv) 
+\begin_inset Formula $I_{2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+(v)
+\begin_inset Formula $P_{4}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+(vi) Plastic
+\end_layout
+
+\begin_layout Quote
+(vii) Graphite
+\end_layout
+
+\begin_layout Quote
+(viii) Brass 
+\end_layout
+
+\begin_layout Quote
+(ix) Rb 
+\end_layout
+
+\begin_layout Quote
+(x) LiBr 
+\end_layout
+
+\begin_layout Quote
+(xi) Si
+\end_layout
+
+\begin_layout Description
+Q2: Silver crystallises in fcc lattice.
+ If edge length of the cell is 
+\begin_inset Formula $4.07×10^{–8}$
+\end_inset
+
+ cm and density is 
+\begin_inset Formula $10.5$
+\end_inset
+
+ 
+\begin_inset Formula $g\,cm^{–3}$
+\end_inset
+
+, calculate the atomic mass of silver.
+\end_layout
+
+\begin_layout Description
+Q3: Analysis shows that nickel oxide has the formula 
+\begin_inset Formula $Ni_{0.98}O_{1.00}$
+\end_inset
+
+.
+ What fractions of nickel exist as 
+\begin_inset Formula $Ni_{2+}$
+\end_inset
+
+ and 
+\begin_inset Formula $Ni_{3+}$
+\end_inset
+
+ ions?
+\end_layout
+
+\begin_layout Description
+Q4: Ferric oxide crystallises in a hexagonal close-packed array of oxide
+ ions with two out of every three octahedral holes occupied by ferric ions.
+ Derive the formula of the ferric oxide.
+\end_layout
+
+\begin_layout Description
+Q5: Explain the following terms with suitable examples: 
+\end_layout
+
+\begin_layout Quote
+(i) Schottky defect 
+\end_layout
+
+\begin_layout Quote
+(ii) Frenkel defect 
+\end_layout
+
+\begin_layout Quote
+(iii) Interstitials and 
+\end_layout
+
+\begin_layout Quote
+(iv) F-centres.
+\end_layout
+
+\begin_layout Description
+Q6: If NaCl is doped with 
+\begin_inset Formula $10^{–3}$
+\end_inset
+
+ mol % of 
+\begin_inset Formula $SrCl_{2}$
+\end_inset
+
+, what is the concentration of cation vacancies?
 \end_layout
 
 \begin_layout Chapter

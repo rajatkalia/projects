@@ -1,5 +1,5 @@
-#LyX 2.2 created this file. For more info see http://www.lyx.org/
-\lyxformat 508
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
 \begin_document
 \begin_header
 \save_transient_properties true
@@ -30,6 +30,8 @@ initials
 \font_osf false
 \font_sf_scale 100 100
 \font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures false
 \graphics default
 \default_output_format pdf2
 \output_sync 0
@@ -59,6 +61,7 @@ initials
 \suppress_date false
 \justification true
 \use_refstyle 1
+\use_minted 0
 \index Index
 \shortcut idx
 \color #008000
@@ -71,7 +74,10 @@ initials
 \tocdepth 3
 \paragraph_separation indent
 \paragraph_indentation default
-\quotes_language english
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
 \papercolumns 1
 \papersides 2
 \paperpagestyle default
@@ -85,7 +91,7 @@ initials
 \begin_body
 
 \begin_layout Title
-Hypertext Kinematics
+Hypertext Kinematics - Extended First Edition
 \end_layout
 
 \begin_layout Author
@@ -93,7 +99,7 @@ Manas Kalia and Rajat Kalia
 \end_layout
 
 \begin_layout Date
-18 April , 2018
+1 May , 2019
 \end_layout
 
 \begin_layout Address
@@ -439,6 +445,7 @@ s it has a displacement of 60 m.
 \begin_inset CommandInset citation
 LatexCommand cite
 key "www.hk-phy.org"
+literal "true"
 
 \end_inset
 
@@ -542,6 +549,7 @@ status open
 \begin_inset CommandInset citation
 LatexCommand cite
 key "www.physport.org"
+literal "true"
 
 \end_inset
 
@@ -560,6 +568,7 @@ A velocity-time graph shows the velocities of a moving object at different
 \begin_inset CommandInset citation
 LatexCommand cite
 key "www.hk-phy.org"
+literal "true"
 
 \end_inset
 
@@ -837,6 +846,7 @@ status open
 \begin_inset CommandInset citation
 LatexCommand cite
 key "www.physport.org"
+literal "true"
 
 \end_inset
 
@@ -897,6 +907,7 @@ g at non-uniform speed
 \begin_inset CommandInset citation
 LatexCommand cite
 key "www.miniphysics.com"
+literal "true"
 
 \end_inset
 
@@ -916,6 +927,7 @@ The details are similar as distance-time graphs, except that the distance
 \begin_inset CommandInset citation
 LatexCommand cite
 key "www.miniphysics.com"
+literal "true"
 
 \end_inset
 
@@ -981,6 +993,7 @@ Area under graph is the change in velocity
 \begin_inset CommandInset citation
 LatexCommand cite
 key "www.miniphysics.com"
+literal "true"
 
 \end_inset
 
@@ -1028,6 +1041,7 @@ status open
 \begin_inset CommandInset citation
 LatexCommand cite
 key "www.sparknotes.com"
+literal "true"
 
 \end_inset
 
@@ -1039,6 +1053,7 @@ Self-Test Questions
 \begin_inset CommandInset citation
 LatexCommand cite
 key "www.miniphysics.com"
+literal "true"
 
 \end_inset
 
@@ -1130,6 +1145,7 @@ ract realm of kinematic equations.
 \begin_inset CommandInset citation
 LatexCommand cite
 key "www.sparknotes.com"
+literal "true"
 
 \end_inset
 
@@ -1185,6 +1201,7 @@ Position vs.
 \begin_inset CommandInset citation
 LatexCommand cite
 key "www.sparknotes.com"
+literal "true"
 
 \end_inset
 
@@ -1345,6 +1362,7 @@ This is all well and good, but how do you calculate the velocity of a curved
 \begin_inset CommandInset citation
 LatexCommand cite
 key "www.sparknotes.com"
+literal "true"
 
 \end_inset
 
@@ -1502,6 +1520,7 @@ The minus sign tells us that acceleration is in the leftward direction,
 \begin_inset CommandInset citation
 LatexCommand cite
 key "www.sparknotes.com"
+literal "true"
 
 \end_inset
 
@@ -1634,6 +1653,7 @@ In other words, at t = 5, the ant is in the same place as it was at t =
 \begin_inset CommandInset citation
 LatexCommand cite
 key "www.sparknotes.com"
+literal "true"
 
 \end_inset
 
@@ -1714,6 +1734,7 @@ n.
 \begin_inset CommandInset citation
 LatexCommand cite
 key "www.sparknotes.com"
+literal "true"
 
 \end_inset
 
@@ -1740,6 +1761,7 @@ Acceleration vs.
 \begin_inset CommandInset citation
 LatexCommand cite
 key "www.sparknotes.com"
+literal "true"
 
 \end_inset
 
@@ -1870,6 +1892,7 @@ Example
 \begin_inset CommandInset citation
 LatexCommand cite
 key "www.hk-phy.org"
+literal "true"
 
 \end_inset
 
@@ -1938,6 +1961,7 @@ Example
 \begin_inset CommandInset citation
 LatexCommand cite
 key "intmath.com"
+literal "true"
 
 \end_inset
 
@@ -2037,6 +2061,7 @@ Example
 \begin_inset CommandInset citation
 LatexCommand cite
 key "intmath.com"
+literal "true"
 
 \end_inset
 
@@ -2266,6 +2291,7 @@ Example
 \begin_inset CommandInset citation
 LatexCommand cite
 key "intmath.com"
+literal "true"
 
 \end_inset
 
@@ -3406,6 +3432,7 @@ me graph shown here.
 \begin_inset CommandInset citation
 LatexCommand cite
 key "www.uwgb.edu"
+literal "true"
 
 \end_inset
 
@@ -6408,6 +6435,7 @@ Example
 \begin_inset CommandInset citation
 LatexCommand cite
 key "www.hk-phy.org"
+literal "true"
 
 \end_inset
 
@@ -6499,6 +6527,7 @@ Example
 \begin_inset CommandInset citation
 LatexCommand cite
 key "www.hk-phy.org"
+literal "true"
 
 \end_inset
 
@@ -14762,10 +14791,469 @@ Substituting in x,
 
 \end_layout
 
+\begin_layout Chapter*
+Test ( Motion in a straight line )
+\end_layout
+
+\begin_layout Subsubsection*
+Time Allowed : 1 hour ________________________ Maximum Marks : 60
+\end_layout
+
+\begin_layout Standard
+Please read the instructions carefully.
+ You will be alloted 5 minutes specifically for this purpose.
+\end_layout
+
+\begin_layout Subsubsection*
+Instructions
+\end_layout
+
+\begin_layout Subsection*
+A.
+ General
+\end_layout
+
+\begin_layout Quote
+1.
+ Blank papers, clipboards, log tables, slide rules, calculators, cellular
+ phones, pagers, and electronic gadgets in any form are not allowed.
+\end_layout
+
+\begin_layout Quote
+2.
+ Do not break the seals of the question-paper booklet before instructed
+ to do so by the invigilators.
+\end_layout
+
+\begin_layout Subsection*
+B.
+ Question paper format and Marking Scheme :
+\end_layout
+
+\begin_layout Quote
+1.
+ This question paper consists of 6 questions carrying 10 marks each.
+\end_layout
+
+\begin_layout Quote
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100col%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Q1: A drunkard walking in a narrow lane takes 5 steps forward and 3 steps
+ backward, followed again by 5 steps forward ad 3 steps backward, and so
+ on.
+ Each step is 1 m long and requires 1 s.
+ Plot the 
+\begin_inset Formula $x-t$
+\end_inset
+
+ graph of his motion.
+ Determine graphically and otherwise how long the drunkard takes to fall
+ in a pit 13 m away from the start.
+\end_layout
+
+\begin_layout Description
+Q2: Two trains A and B of length 400 m each are moving on two parallel tracks
+ with a uniform speed of 
+\begin_inset Formula $72\,km\,h^{-1}$
+\end_inset
+
+ ejects its products of combustion at the speed of 
+\begin_inset Formula $1500\,km\,h^{-1}$
+\end_inset
+
+ relative to the jet plane.
+ What is the retardation of the car(assumed uniform).
+ and how long does it take for the car to stop?
+\end_layout
+
+\begin_layout Description
+Q3: On a two-lane road, car A is travelling with a speed of 
+\begin_inset Formula $36\,km\,h^{–1}$
+\end_inset
+
+.
+ Two cars B and C approach car A in opposite directions with a speed of
+ 
+\begin_inset Formula $54\,km\,h^{–1}$
+\end_inset
+
+ each.
+ At a certain instant, when the distance AB is equal to AC, both being 1
+ km, B decides to overtake A before C does.
+ What minimum acceleration of car B is required to avoid an accident ?
+\end_layout
+
+\begin_layout Description
+Q4: A ball is dropped from a height of 90 m on a floor.
+ At each collision with the floor, the ball loses one tenth of its speed.
+ Plot the speed-time graph of its motion between t = 0 to 12 s.
+\end_layout
+
+\begin_layout Description
+Q5: A man walks on a straight road from his home to a market 2.5 km away
+ with a speed of 
+\begin_inset Formula $5\,km\,h^{–1}$
+\end_inset
+
+.
+ Finding the market closed, he instantly turns and walks back home with
+ a speed of 
+\begin_inset Formula $7.5\,km\,h^{–1}$
+\end_inset
+
+.
+ What is the (a) magnitude of average velocity, and (b) average speed of
+ the man over the interval of time (i) 0 to 30 min, (ii) 0 to 50 min, (iii)
+ 0 to 40 min ?
+\end_layout
+
+\begin_layout Description
+Q6: A boy standing on a stationary lift (open from above) throws a ball
+ upwards with the maximum initial speed he can, equal to 49 m s–1.
+ How much time does the ball take to return to his hands? If the lift starts
+ moving up with a uniform speed of 5 m s-1 and the boy again throws the
+ ball up with the maximum speed he can, how long does the ball take to return
+ to his hands ?
+\end_layout
+
+\begin_layout Chapter*
+Test ( Motion in a plane )
+\end_layout
+
+\begin_layout Subsubsection*
+Time Allowed : 1 hour ________________________ Maximum Marks : 60
+\end_layout
+
+\begin_layout Standard
+Please read the instructions carefully.
+ You will be alloted 5 minutes specifically for this purpose.
+\end_layout
+
+\begin_layout Subsubsection*
+Instructions
+\end_layout
+
+\begin_layout Subsection*
+A.
+ General
+\end_layout
+
+\begin_layout Quote
+1.
+ Blank papers, clipboards, log tables, slide rules, calculators, cellular
+ phones, pagers, and electronic gadgets in any form are not allowed.
+\end_layout
+
+\begin_layout Quote
+2.
+ Do not break the seals of the question-paper booklet before instructed
+ to do so by the invigilators.
+\end_layout
+
+\begin_layout Subsection*
+B.
+ Question paper format and Marking Scheme :
+\end_layout
+
+\begin_layout Quote
+1.
+ This question paper consists of 6 questions carrying 10 marks each.
+\end_layout
+
+\begin_layout Quote
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100col%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Q1: A cyclist starts from the centre O of a circular park of radius 1 km,
+ reaches the edge P of the park, then cycles along the circumference, and
+ returns to the centre along QO as shown in Fig.
+ .
+ If the round trip takes 10 min, what is the (a) net displacement, (b) average
+ velocity, and (c) average speed of the cyclist ?
+\end_layout
+
+\begin_layout Description
+\begin_inset Graphics
+	filename Images/HtKe/1.1e/Images/Tests/P5-1.JPG
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Q2: A stone tied to the end of a string 80 cm long is whirled in a horizontal
+ circle with a constant speed.
+ If the stone makes 14 revolutions in 25 s, what is the magnitude and direction
+ of acceleration of the stone ?
+\end_layout
+
+\begin_layout Description
+Q3: Can you associate vectors with (a) the length of a wire bent into a
+ loop, (b) a plane area, (c) a sphere ? Explain.
+\end_layout
+
+\begin_layout Description
+Q4: (a) Show that for a projectile the angle between the velocity and the
+ x-axis as a function of time is given by 
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $\theta(t)=\tan^{-1}\left(\dfrac{v_{0y}-gt}{v_{ax}}\right)$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+(b) Shows that the projection angle θ0 for a projectile launched from the
+ origin is given by 
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $\theta_{o}=\tan^{-1}\left(\dfrac{4h_{m}}{R}\right)$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+where the symbols have their usual meaning.
+\end_layout
+
+\begin_layout Description
+Q5: A bullet fired at an angle of 30° with the horizontal hits the ground
+ 3.0 km away.
+ By adjusting its angle of projection, can one hope to hit a target 5.0 km
+ away ? Assume the muzzle speed to the fixed, and neglect air resistance.
+\end_layout
+
+\begin_layout Description
+Q6: A cyclist is riding with a speed of 27 km/h.
+ As he approaches a circular turn on the road of radius 80 m, he applies
+ brakes and reduces his speed at the constant rate of 0.50 m/s every second.
+ What is the magnitude and direction of the net acceleration of the cyclist
+ on the circular turn ?
+\end_layout
+
+\begin_layout Chapter*
+Full Test Kinematics
+\end_layout
+
+\begin_layout Subsubsection*
+Time Allowed : 1.5 Hours ________________________ Maximum Marks : 60
+\end_layout
+
+\begin_layout Standard
+Please read the instructions carefully.
+ You will be alloted 5 minutes specifically for this purpose.
+\end_layout
+
+\begin_layout Subsubsection*
+Instructions
+\end_layout
+
+\begin_layout Subsection*
+A.
+ General
+\end_layout
+
+\begin_layout Quote
+1.
+ Blank papers, clipboards, log tables, slide rules, calculators, cellular
+ phones, pagers, and electronic gadgets in any form are not allowed.
+\end_layout
+
+\begin_layout Quote
+2.
+ Do not break the seals of the question-paper booklet before instructed
+ to do so by the invigilators.
+\end_layout
+
+\begin_layout Subsection*
+B.
+ Question paper format and Marking Scheme :
+\end_layout
+
+\begin_layout Quote
+1.
+ This question paper consists of 6 questions carrying 10 marks each.
+\end_layout
+
+\begin_layout Quote
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100col%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Q1: A point traversed half the distance with a velocity 
+\begin_inset Formula $v_{o}$
+\end_inset
+
+.
+ The remaining part of the distance was covered with velocity 
+\begin_inset Formula $v_{1}$
+\end_inset
+
+ for half the time, and with velocity 
+\begin_inset Formula $v_{2}$
+\end_inset
+
+ for the other half of the time.
+ Find the mean velocity of the point averaged over the whole time of motion.
+\end_layout
+
+\begin_layout Description
+Q2: Two boats, A and B, move away from a buoy anchored at the middle of
+ a river along the mutually perpendicular straight lines: the boat A along
+ the river, and the boat B across the river.
+ Having moved off an equal distance from the buoy the boats returned.
+ Find the ratio of times of motion of boats 
+\begin_inset Formula $\dfrac{\tau_{A}}{\tau_{B}}$
+\end_inset
+
+ if the velocity of each boat with respect to water is 
+\begin_inset Formula $\eta=1.2$
+\end_inset
+
+ times greater than the stream velocity.
+\end_layout
+
+\begin_layout Description
+Q3: An elevator car whose floor-to-ceiling distance is equal to 2.7 m starts
+ ascending with constant acceleration 
+\begin_inset Formula $1.2m/s^{2}$
+\end_inset
+
+ ; 2.0 s after the start a bolt begins falling from the ceiling of the car.
+ Find: (a) the bolt's free fall time; (b) the displacement and the distance
+ covered by the bolt during the free fall in the reference frame fixed to
+ the elevator shaft.
+\end_layout
+
+\begin_layout Description
+Q4: From point A located on a highway (Fig.
+ ) one has to get by car as soon as possible to point B located in the field
+ at a distance 
+\begin_inset Formula $l$
+\end_inset
+
+ from the highway.
+ It is known that the car moves in the field 
+\begin_inset Formula $\eta$
+\end_inset
+
+ times slower than on the highway.
+ At what distance from point D one must turn off the highway?
+\end_layout
+
+\begin_layout Description
+\begin_inset Graphics
+	filename Images/HtKe/1.1e/Images/Tests/image1.JPG
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Q5: A point moves along an arc of a circle of radius R.
+ Its velocity depends on the distance covered s as 
+\begin_inset Formula $v=a\sqrt{s}$
+\end_inset
+
+, where a is a constant.
+ Find the angle ex between the vector of the total acceleration and the
+ vector of velocity as a function of s.
+\end_layout
+
+\begin_layout Description
+Q6: To protect his food from hungry bears, a boy scout raises his food pack
+ with a rope that is thrown over a tree limb at height h above his hands.
+ He walks away from the vertical rope with constant velocity 
+\begin_inset Formula $v_{boy}$
+\end_inset
+
+ , holding the free end of the rope in his hands (Fig.
+ ).
+\end_layout
+
+\begin_layout Description
+\begin_inset Graphics
+	filename Images/HtKe/1.1e/Images/Tests/image2.JPG
+	scale 70
+
+\end_inset
+
+
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+(a) Show that the speed v of the food pack is 
+\begin_inset Formula $x\left(x^{2}+h^{2}\right)^{-1/2}v_{boy}$
+\end_inset
+
+ , where x is the distance he has walked away from the vertical rope.
+ 
+\end_layout
+
+\begin_layout Standard
+(b) Show that the acceleration a of the food pack is 
+\begin_inset Formula $h^{2}\left(x^{2}+h^{2}\right)^{-3/2}v_{boy}^{2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+(c) What values do the acceleration and velocity have shortly after he leaves
+ the point under the pack (x = 0)? 
+\end_layout
+
+\begin_layout Standard
+(d) What values do the pack’s velocity and acceleration approach as the
+ distance x continues to increase?
+\end_layout
+
+\end_deeper
 \begin_layout Standard
 \begin_inset CommandInset index_print
 LatexCommand printindex
 type "idx"
+name "Index"
+literal "true"
 
 \end_inset
 

@@ -96,7 +96,7 @@ Rajat Kalia and Manas Kalia
 \end_layout
 
 \begin_layout Date
-1 May , 2019
+27 January , 2019
 \end_layout
 
 \begin_layout Standard
@@ -310,7 +310,7 @@ Q1: A cyclist starts from the centre O of a circular park of radius 1 km,
 
 \begin_layout Description
 \begin_inset Graphics
-	filename F:/Live/Projects/Images/HtKe/1.1e/Images/Tests/P5-1.JPG
+	filename Images/PCB/1e/P5-1.JPG
 	scale 50
 
 \end_inset
@@ -493,7 +493,7 @@ Q4: From point A located on a highway (Fig.
 
 \begin_layout Description
 \begin_inset Graphics
-	filename F:/Live/Projects/Images/HtKe/1.1e/Images/Tests/image1.JPG
+	filename Images/PCB/1e/image1.JPG
 
 \end_inset
 
@@ -524,7 +524,7 @@ Q6: To protect his food from hungry bears, a boy scout raises his food pack
 
 \begin_layout Description
 \begin_inset Graphics
-	filename F:/Live/Projects/Images/HtKe/1.1e/Images/Tests/image2.JPG
+	filename Images/PCB/1e/image2.JPG
 	scale 70
 
 \end_inset
@@ -761,7 +761,7 @@ Q5: A Pitot tube (Fig.
 
 \begin_layout Description
 \begin_inset Graphics
-	filename Images/PCB/untitled.JPG
+	filename Images/PCB/1e/untitled.JPG
 	scale 150
 
 \end_inset
@@ -958,7 +958,7 @@ Q3: Figure shows three point charges +2q, –q and + 3q.
 
 \begin_layout Description
 \begin_inset Graphics
-	filename Images/PCB/image2.JPG
+	filename Images/PCB/1e/image2.1.JPG
 
 \end_inset
 
@@ -1341,7 +1341,7 @@ Q6: Figure shows a sheet of aluminium foil of negligible thickness placed
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename Images/PCB/image5.JPG
+	filename Images/PCB/1e/image5.JPG
 	scale 60
 
 \end_inset
@@ -1370,7 +1370,7 @@ Q7: Three points A.
 
 \begin_layout Description
 \begin_inset Graphics
-	filename Images/PCB/image1.JPG
+	filename Images/PCB/1e/image1.1.JPG
 	scale 50
 
 \end_inset
@@ -1557,7 +1557,7 @@ Q18: (a) Derive an expression for the torque experienced by an electric
 
 \begin_layout Description
 \begin_inset Graphics
-	filename Images/PCB/image6.JPG
+	filename Images/PCB/1e/image6.JPG
 	scale 60
 
 \end_inset
@@ -1747,7 +1747,7 @@ Q1: A wire of resistance 8R is bent in the form of a circle.
 
 \begin_layout Description
 \begin_inset Graphics
-	filename Images/PCB/image8.JPG
+	filename Images/PCB/1e/image8.JPG
 	scale 70
 
 \end_inset
@@ -1809,7 +1809,7 @@ Q8: Calculate the current drawn from the battery in the given network.
 
 \begin_layout Description
 \begin_inset Graphics
-	filename Images/PCB/image9.JPG
+	filename Images/PCB/1e/image9.JPG
 	scale 40
 
 \end_inset
@@ -1824,7 +1824,7 @@ Q9: Figure shows the circuit diagram of a potentiometer for determining
 
 \begin_layout Description
 \begin_inset Graphics
-	filename Images/PCB/image11.JPG
+	filename Images/PCB/1e/image11.JPG
 	scale 50
 
 \end_inset
@@ -1907,7 +1907,7 @@ Q14: State the principle of working of a meter bridge.
 
 \begin_layout Description
 \begin_inset Graphics
-	filename Images/PCB/image7.JPG
+	filename Images/PCB/1e/image7.JPG
 	scale 50
 
 \end_inset
@@ -1941,7 +1941,7 @@ Q15: State Kirchhoff's rules.
 
 \begin_layout Description
 \begin_inset Graphics
-	filename Images/PCB/image10.JPG
+	filename Images/PCB/1e/image10.JPG
 	scale 60
 
 \end_inset
@@ -1957,7 +1957,7 @@ Q16: State Kirchhoff's rules of current distribution in an electrical network.
 
 \begin_layout Description
 \begin_inset Graphics
-	filename Images/PCB/image12.JPG
+	filename Images/PCB/1e/image12.JPG
 	scale 70
 
 \end_inset
@@ -1975,7 +1975,7 @@ Q17: For the potentiometer circuit shown in the given figure, points X and
 
 \begin_layout Description
 \begin_inset Graphics
-	filename Images/PCB/image13.JPG
+	filename Images/PCB/1e/image13.JPG
 	scale 50
 
 \end_inset
@@ -2018,7 +2018,7 @@ Q18: The given figure shows a network of resistances
 
 \begin_layout Description
 \begin_inset Graphics
-	filename Images/PCB/image15.JPG
+	filename Images/PCB/1e/image15.JPG
 	scale 50
 
 \end_inset
@@ -2251,7 +2251,7 @@ Q7: A charge 'q' moving along the X-axis with a velocity V is subjected
 \begin_deeper
 \begin_layout Description
 \begin_inset Graphics
-	filename Images/PCB/image20.JPG
+	filename Images/PCB/1e/image20.JPG
 
 \end_inset
 
@@ -2295,7 +2295,7 @@ A current I flows in a conductor placed perpendicular to the plane of the
 \end_deeper
 \begin_layout Description
 \begin_inset Graphics
-	filename Images/PCB/image21.JPG
+	filename Images/PCB/1e/image21.JPG
 
 \end_inset
 
@@ -2380,7 +2380,7 @@ In the given figure this loop is placed in a horizontal plane near a long
 \end_deeper
 \begin_layout Description
 \begin_inset Graphics
-	filename Images/PCB/image19.JPG
+	filename Images/PCB/1e/image19.JPG
 
 \end_inset
 
@@ -2547,7 +2547,7 @@ Q25: (a) State Biot-Savart’s law.
 \end_deeper
 \begin_layout Description
 \begin_inset Graphics
-	filename Images/PCB/image16.jpg
+	filename Images/PCB/1e/image16.jpg
 	scale 70
 
 \end_inset
@@ -2600,7 +2600,7 @@ ying loop placed 2 cm away from a long, straight, current-carrying conductor.
 
 \begin_layout Description
 \begin_inset Graphics
-	filename Images/PCB/image17.JPG
+	filename Images/PCB/1e/image17.JPG
 	scale 70
 
 \end_inset
@@ -2634,7 +2634,7 @@ Q28: (a) Two straight long parallel conductors carry currents
 
 \begin_layout Description
 \begin_inset Graphics
-	filename Images/PCB/image18.JPG
+	filename Images/PCB/1e/image18.JPG
 	scale 70
 
 \end_inset
@@ -3122,7 +3122,7 @@ Q6: A coil Q is connected to low voltage bulb B and placed near another
 \end_deeper
 \begin_layout Description
 \begin_inset Graphics
-	filename Images/PCB/image25.JPG
+	filename Images/PCB/1e/image25.JPG
 
 \end_inset
 
@@ -3151,7 +3151,7 @@ Q9: An electric bulb B and a parallel plate capacitor C are connected in
 
 \begin_layout Description
 \begin_inset Graphics
-	filename Images/PCB/image27.JPG
+	filename Images/PCB/1e/image27.JPG
 
 \end_inset
 
@@ -3211,7 +3211,7 @@ Q15: Given below are two electric circuits A and B
 
 \begin_layout Description
 \begin_inset Graphics
-	filename Images/PCB/image26.JPG
+	filename Images/PCB/1e/image26.JPG
 	scale 60
 
 \end_inset
@@ -3562,7 +3562,7 @@ Q2: A plot of magnetic flux
 \begin_deeper
 \begin_layout Description
 \begin_inset Graphics
-	filename Images/PCB/image24.JPG
+	filename Images/PCB/1e/image24.JPG
 	scale 70
 
 \end_inset
@@ -3583,7 +3583,7 @@ Q3: In the figure given below, a bar magnet moving towards the right or
 
 \begin_layout Description
 \begin_inset Graphics
-	filename Images/PCB/image22.jpg
+	filename Images/PCB/1e/image22.jpg
 	scale 75
 
 \end_inset
@@ -3645,7 +3645,7 @@ ar to the plane of the loop.
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename Images/PCB/image23.JPG
+	filename Images/PCB/1e/image23.JPG
 	scale 50
 
 \end_inset
@@ -3857,7 +3857,7 @@ Q2: You are given following three lenses.
 
 \begin_layout Description
 \begin_inset Graphics
-	filename Images/PCB/image30.JPG
+	filename Images/PCB/1e/image30.JPG
 	scale 70
 
 \end_inset
@@ -3913,7 +3913,7 @@ Q9: Three light rays red (R), green (0) and blue (B) are incident on a right
 
 \begin_layout Description
 \begin_inset Graphics
-	filename Images/PCB/image35.JPG
+	filename Images/PCB/1e/image35.JPG
 	scale 70
 
 \end_inset
@@ -4585,7 +4585,7 @@ Q4: The energy levels of an atom are as shown below.
 
 \begin_layout Description
 \begin_inset Graphics
-	filename Images/PCB/image34.JPG
+	filename Images/PCB/1e/image34.JPG
 	scale 70
 
 \end_inset
@@ -4619,7 +4619,7 @@ Q6: The energy level diagram of an element is given below.
 
 \begin_layout Description
 \begin_inset Graphics
-	filename Images/PCB/image39.JPG
+	filename Images/PCB/1e/image39.JPG
 	scale 60
 
 \end_inset
@@ -4812,7 +4812,7 @@ Q5: A radioactive nucleus 'A' undergoes a series of decays according to
 \begin_deeper
 \begin_layout Description
 \begin_inset Graphics
-	filename Images/PCB/image33.JPG
+	filename Images/PCB/1e/image33.JPG
 	scale 70
 
 \end_inset
@@ -5096,7 +5096,7 @@ Q1: The figure shows a plot of three curves a, b, c showing the variation
 
 \begin_layout Description
 \begin_inset Graphics
-	filename Images/PCB/image31.JPG
+	filename Images/PCB/1e/image31.JPG
 	scale 70
 
 \end_inset
@@ -5172,7 +5172,7 @@ Q8: Figure shows variation of stopping potential (Vo) with the frequency
 
 \begin_layout Description
 \begin_inset Graphics
-	filename Images/PCB/image36.JPG
+	filename Images/PCB/1e/image36.JPG
 	scale 60
 
 \end_inset
@@ -5634,7 +5634,7 @@ Q3: The following figure shows the input waveforms (A.
 
 \begin_layout Description
 \begin_inset Graphics
-	filename Images/PCB/image32.JPG
+	filename Images/PCB/1e/image32.JPG
 	scale 70
 
 \end_inset
@@ -5648,7 +5648,7 @@ Q4: Draw the logic symbol of the gate whose truth table is given below :
 
 \begin_layout Description
 \begin_inset Graphics
-	filename Images/PCB/image37.JPG
+	filename Images/PCB/1e/image37.JPG
 	scale 60
 
 \end_inset
@@ -5676,7 +5676,7 @@ Q5: Draw the output wave form at X, using the given inputs A, B for the
 
 \begin_layout Description
 \begin_inset Graphics
-	filename Images/PCB/image38.JPG
+	filename Images/PCB/1e/image38.JPG
 	scale 60
 
 \end_inset
@@ -5704,7 +5704,7 @@ Q8: The figure below shows the V-I characteristic of a semiconductor diode
 
 \begin_layout Description
 \begin_inset Graphics
-	filename Images/PCB/image40.JPG
+	filename Images/PCB/1e/image40.JPG
 	scale 55
 
 \end_inset
@@ -5754,7 +5754,7 @@ Q9: (a) Explain the formation of depletion layer and potential barrier in
 \end_deeper
 \begin_layout Description
 \begin_inset Graphics
-	filename Images/PCB/image28.JPG
+	filename Images/PCB/1e/image28.JPG
 	scale 70
 
 \end_inset
@@ -5775,7 +5775,7 @@ Q9: (a) Explain the formation of depletion layer and potential barrier in
 \end_deeper
 \begin_layout Description
 \begin_inset Graphics
-	filename Images/PCB/image29.JPG
+	filename Images/PCB/1e/image29.JPG
 	scale 65
 
 \end_inset

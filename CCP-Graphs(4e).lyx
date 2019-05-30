@@ -1,5 +1,5 @@
-#LyX 2.2 created this file. For more info see http://www.lyx.org/
-\lyxformat 508
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
 \begin_document
 \begin_header
 \save_transient_properties true
@@ -35,6 +35,8 @@ initials
 \font_osf false
 \font_sf_scale 100 100
 \font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures false
 \graphics default
 \default_output_format pdf2
 \output_sync 0
@@ -64,6 +66,7 @@ initials
 \suppress_date false
 \justification true
 \use_refstyle 1
+\use_minted 0
 \index Index
 \shortcut idx
 \color #008000
@@ -76,7 +79,10 @@ initials
 \tocdepth 3
 \paragraph_separation indent
 \paragraph_indentation default
-\quotes_language english
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
 \papercolumns 1
 \papersides 2
 \paperpagestyle default
@@ -94,7 +100,7 @@ A Complete Course in Physics ( Graphs ) - 4th Edition
 \end_layout
 
 \begin_layout Author
-Manas Kalia and Rajat Kalia
+Manas Kalia and Samantha Fox
 \end_layout
 
 \begin_layout Date
@@ -170,6 +176,7 @@ Introduction
 \begin_inset CommandInset citation
 LatexCommand cite
 key "www.lhup.edu"
+literal "true"
 
 \end_inset
 
@@ -2075,6 +2082,7 @@ s it has a displacement of 60 m.
 \begin_inset CommandInset citation
 LatexCommand cite
 key "www.hk-phy.org"
+literal "true"
 
 \end_inset
 
@@ -2178,6 +2186,7 @@ status open
 \begin_inset CommandInset citation
 LatexCommand cite
 key "www.physport.org"
+literal "true"
 
 \end_inset
 
@@ -2196,6 +2205,7 @@ A velocity-time graph shows the velocities of a moving object at different
 \begin_inset CommandInset citation
 LatexCommand cite
 key "www.hk-phy.org"
+literal "true"
 
 \end_inset
 
@@ -2473,6 +2483,7 @@ status open
 \begin_inset CommandInset citation
 LatexCommand cite
 key "www.physport.org"
+literal "true"
 
 \end_inset
 
@@ -2533,6 +2544,7 @@ g at non-uniform speed
 \begin_inset CommandInset citation
 LatexCommand cite
 key "www.miniphysics.com"
+literal "true"
 
 \end_inset
 
@@ -2552,6 +2564,7 @@ The details are similar as distance-time graphs, except that the distance
 \begin_inset CommandInset citation
 LatexCommand cite
 key "www.miniphysics.com"
+literal "true"
 
 \end_inset
 
@@ -2617,6 +2630,7 @@ Area under graph is the change in velocity
 \begin_inset CommandInset citation
 LatexCommand cite
 key "www.miniphysics.com"
+literal "true"
 
 \end_inset
 
@@ -2664,6 +2678,7 @@ status open
 \begin_inset CommandInset citation
 LatexCommand cite
 key "www.sparknotes.com"
+literal "true"
 
 \end_inset
 
@@ -2675,6 +2690,7 @@ Self-Test Questions
 \begin_inset CommandInset citation
 LatexCommand cite
 key "www.miniphysics.com"
+literal "true"
 
 \end_inset
 
@@ -2766,6 +2782,7 @@ ract realm of kinematic equations.
 \begin_inset CommandInset citation
 LatexCommand cite
 key "www.sparknotes.com"
+literal "true"
 
 \end_inset
 
@@ -2821,6 +2838,7 @@ Position vs.
 \begin_inset CommandInset citation
 LatexCommand cite
 key "www.sparknotes.com"
+literal "true"
 
 \end_inset
 
@@ -2981,6 +2999,7 @@ This is all well and good, but how do you calculate the velocity of a curved
 \begin_inset CommandInset citation
 LatexCommand cite
 key "www.sparknotes.com"
+literal "true"
 
 \end_inset
 
@@ -3138,6 +3157,7 @@ The minus sign tells us that acceleration is in the leftward direction,
 \begin_inset CommandInset citation
 LatexCommand cite
 key "www.sparknotes.com"
+literal "true"
 
 \end_inset
 
@@ -3270,6 +3290,7 @@ In other words, at t = 5, the ant is in the same place as it was at t =
 \begin_inset CommandInset citation
 LatexCommand cite
 key "www.sparknotes.com"
+literal "true"
 
 \end_inset
 
@@ -3350,6 +3371,7 @@ n.
 \begin_inset CommandInset citation
 LatexCommand cite
 key "www.sparknotes.com"
+literal "true"
 
 \end_inset
 
@@ -3376,6 +3398,7 @@ Acceleration vs.
 \begin_inset CommandInset citation
 LatexCommand cite
 key "www.sparknotes.com"
+literal "true"
 
 \end_inset
 
@@ -3506,6 +3529,7 @@ Example
 \begin_inset CommandInset citation
 LatexCommand cite
 key "www.hk-phy.org"
+literal "true"
 
 \end_inset
 
@@ -3574,6 +3598,7 @@ Example
 \begin_inset CommandInset citation
 LatexCommand cite
 key "intmath.com"
+literal "true"
 
 \end_inset
 
@@ -3673,6 +3698,7 @@ Example
 \begin_inset CommandInset citation
 LatexCommand cite
 key "intmath.com"
+literal "true"
 
 \end_inset
 
@@ -3902,6 +3928,7 @@ Example
 \begin_inset CommandInset citation
 LatexCommand cite
 key "intmath.com"
+literal "true"
 
 \end_inset
 
@@ -5042,6 +5069,7 @@ me graph shown here.
 \begin_inset CommandInset citation
 LatexCommand cite
 key "www.uwgb.edu"
+literal "true"
 
 \end_inset
 
@@ -8044,6 +8072,7 @@ Example
 \begin_inset CommandInset citation
 LatexCommand cite
 key "www.hk-phy.org"
+literal "true"
 
 \end_inset
 
@@ -8135,6 +8164,7 @@ Example
 \begin_inset CommandInset citation
 LatexCommand cite
 key "www.hk-phy.org"
+literal "true"
 
 \end_inset
 
@@ -14632,6 +14662,7 @@ The area under a force – time graph gives us the impulse of the force applied
 \begin_inset CommandInset citation
 LatexCommand cite
 key "physicsnet.co.uk"
+literal "true"
 
 \end_inset
 
@@ -14655,6 +14686,7 @@ The change in the momentum of a system (or the impulse delivered by the
 \begin_inset CommandInset citation
 LatexCommand cite
 key "pa.msu.edu"
+literal "true"
 
 \end_inset
 
@@ -14820,6 +14852,7 @@ Impulse graphs ( A Case Study)
 \begin_inset CommandInset citation
 LatexCommand cite
 key "bbc.co.uk"
+literal "true"
 
 \end_inset
 
@@ -15021,6 +15054,7 @@ Static Friction
 \begin_inset CommandInset citation
 LatexCommand cite
 key "hyperphysics.phy-astr.gsu.edu"
+literal "true"
 
 \end_inset
 
@@ -16035,6 +16069,7 @@ Example
 \begin_inset CommandInset citation
 LatexCommand cite
 key "physicsforums.com"
+literal "true"
 
 \end_inset
 
@@ -16085,6 +16120,7 @@ Example
 \begin_inset CommandInset citation
 LatexCommand cite
 key "physicstutorials.org"
+literal "true"
 
 \end_inset
 
@@ -17786,6 +17822,7 @@ Refer to the following information for the next thirteen questions.
 \begin_inset CommandInset citation
 LatexCommand cite
 key "dev.physicslab.org"
+literal "true"
 
 \end_inset
 
@@ -19381,6 +19418,7 @@ The graph of position verse time is a sine wave with a possible phase shift.
 \begin_inset CommandInset citation
 LatexCommand cite
 key "ipodphysics.com"
+literal "true"
 
 \end_inset
 
@@ -26052,6 +26090,7 @@ Mathematical treatment of charging and discharging a capacitor
 \begin_inset CommandInset citation
 LatexCommand cite
 key "schoolphysics.co.uk"
+literal "true"
 
 \end_inset
 
@@ -26635,6 +26674,7 @@ An Experiment
 \begin_inset CommandInset citation
 LatexCommand cite
 key "vlab.amrita.edu"
+literal "true"
 
 \end_inset
 
@@ -26910,6 +26950,7 @@ Original Einstien Experiment
 \begin_inset CommandInset citation
 LatexCommand cite
 key "physics.info"
+literal "true"
 
 \end_inset
 
@@ -27927,6 +27968,7 @@ Graphs for convex and concave lenses
 \begin_inset CommandInset citation
 LatexCommand cite
 key "schoolphysics.co.uk"
+literal "true"
 
 \end_inset
 
@@ -28985,6 +29027,8 @@ d) OR gate
 \begin_inset CommandInset index_print
 LatexCommand printindex
 type "idx"
+name "Index"
+literal "true"
 
 \end_inset
 

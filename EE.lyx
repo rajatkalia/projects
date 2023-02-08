@@ -129,5 +129,10 @@ The time taken for each field to be scanned is 1/60 s .Correspondingly the
  With 525 lines in a frame , the line scanning frequency is 15.75 kHz.
 \end_layout
 
+\begin_layout Standard
+Thus , by flashing 30 still pictures per second on the display tube of the
+ TV receiver, the human eye perceives them to be moving pictures.
+\end_layout
+
 \end_body
 \end_document

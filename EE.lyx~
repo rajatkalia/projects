@@ -75,7 +75,7 @@ theorems-std
 \math_numbering_side default
 \quotes_style english
 \dynamic_quotes 0
-\papercolumns 1
+\papercolumns 2
 \papersides 2
 \paperpagestyle default
 \tracking_changes false
@@ -127,6 +127,11 @@ The picture is divided into 525 lines, which constitute a frame.Each frame
 The time taken for each field to be scanned is 1/60 s .Correspondingly the
  time taken for a frame or a complete picture to be scanned is 1/30 s.
  With 525 lines in a frame , the line scanning frequency is 15.75 kHz.
+\end_layout
+
+\begin_layout Standard
+Thus , by flashing 30 stil pictures per second on the display tube of the
+ TV receiver, the human eye perceives them to be moving pictures.
 \end_layout
 
 \end_body

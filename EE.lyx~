@@ -126,6 +126,7 @@ The picture is divided into 525 lines, which constitute a frame.Each frame
 \begin_layout Standard
 The time taken for each field to be scanned is 1/60 s .Correspondingly the
  time taken for a frame or a complete picture to be scanned is 1/30 s.
+ With 525 lines in a frame , the line scanning frequency is 15.75 kHz.
 \end_layout
 
 \end_body

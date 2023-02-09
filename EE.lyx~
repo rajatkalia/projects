@@ -130,8 +130,29 @@ The time taken for each field to be scanned is 1/60 s .Correspondingly the
 \end_layout
 
 \begin_layout Standard
-Thus , by flashing 30 stil pictures per second on the display tube of the
+Thus , by flashing 30 still pictures per second on the display tube of the
  TV receiver, the human eye perceives them to be moving pictures.
+\end_layout
+
+\begin_layout Section
+ASCII (via ATM{Asynchronous Transfer Mode})
+\end_layout
+
+\begin_layout Standard
+Thus a total of 
+\begin_inset Formula $2^{7}=128$
+\end_inset
+
+ can be represented in ASCII (American Standard Code for information Exchange).
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename Images/Engeneering/EE/Communication Engineering/ReducedSize/ASCII.jpg
+
+\end_inset
+
+
 \end_layout
 
 \end_body

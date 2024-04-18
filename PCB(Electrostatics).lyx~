@@ -87,27 +87,6 @@ theorems-std
 
 \begin_body
 
-\begin_layout Title
-The Physics Cook Book - 2nd Edition
-\end_layout
-
-\begin_layout Author
-Rajat Kalia and Manas Kalia
-\end_layout
-
-\begin_layout Date
-7-April, 2024
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset toc
-LatexCommand tableofcontents
-
-\end_inset
-
-
-\end_layout
-
 \begin_layout Chapter*
 Physics (Theory) - Electric Charges and Fields (CBSE)
 \end_layout
@@ -153,9 +132,10 @@ A.
 \begin_layout Quote
 2.
  There are 18 questions in total.
- Questions 1 to 6 carry one mark each, questions 7 to 11 carry two marks
- each, questions 12 to 16 carry three marks each and questions 17 to 18
- carry five marks each.
+ Section A : Questions 1 to 16 carry one mark each, Section B : questions
+ 17 to 21 carry two marks each, Section C : questions 22 to 28 carry three
+ marks each , Section D : questions 29 and 30 carry 4 marks each and Section
+ E : questions 31 to 33carry five marks each.
  
 \end_layout
 
@@ -250,16 +230,19 @@ Avogadro's number
 \end_layout
 
 \begin_layout Quote
-Radius of earth = 6400 km
-\end_layout
-
-\begin_layout Quote
 \begin_inset CommandInset line
 LatexCommand rule
 offset "0.5ex"
 width "100col%"
 height "1pt"
 
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
 \end_inset
 
 
@@ -334,13 +317,13 @@ Q6: An electrostatic field line cannot be discontinuous.
 
 \series bold
 For Questions 13 to 16, two statements are given - one labelled Assertion
- (A) and other labelled (R).
+ (A) and other labelled Reason (R).
  Select the correct answer to these questions from the options as given
  below.
 \end_layout
 
 \begin_layout Standard
-(A) If both Assertion (A) and and Reason (R) are true, and Reason (R) is
+(A) If both Assertion (A) and and Reason (R) are true and Reason (R) is
  the correct explaination of Assertion (A).
 \end_layout
 
@@ -376,18 +359,22 @@ Reason (R) : It is so because the net potential at O is not zero.
 
 \end_layout
 
+\begin_layout Standard
+Q2: Assertion (A) :
+\end_layout
+
 \begin_layout Section*
 Section B
 \end_layout
 
 \begin_layout Description
-Q7: Define Electric Flux.
+Q17: Define Electric Flux.
  Write its S.I.
  Unit.
 \end_layout
 
 \begin_layout Description
-Q8: The sum of two point charges is 
+Q18: The sum of two point charges is 
 \begin_inset Formula $7\mu C$
 \end_inset
 
@@ -398,8 +385,8 @@ Q8: The sum of two point charges is
 \end_layout
 
 \begin_layout Description
-Q9: The electric field E due to a point charge at any point near it is defined
- as 
+Q19: The electric field E due to a point charge at any point near it is
+ defined as 
 \begin_inset Formula $\underset{q\rightarrow0}{lim}\left(\dfrac{\mathbf{F}}{q}\right)$
 \end_inset
 
@@ -413,7 +400,7 @@ Q9: The electric field E due to a point charge at any point near it is defined
 \end_layout
 
 \begin_layout Description
-Q10: A spherical Gaussian surface encloses a charge of 
+Q20: A spherical Gaussian surface encloses a charge of 
 \begin_inset Formula $8.85\times10^{-10}C$
 \end_inset
 
@@ -424,7 +411,7 @@ Q10: A spherical Gaussian surface encloses a charge of
 \end_layout
 
 \begin_layout Description
-Q11: Define 'electric line of force' and give its two important properties.
+Q21: Define 'electric line of force' and give its two important properties.
 \end_layout
 
 \begin_layout Description
@@ -470,12 +457,12 @@ Three point charges ,
  Find the net electric field at the centroid of triangle.
 \end_layout
 
-\begin_layout Description
+\begin_layout Section*
 Section - C
 \end_layout
 
 \begin_layout Description
-Q12: A positive point charge (+ q) is kept in the vicinity of an uncharged
+Q22: A positive point charge (+ q) is kept in the vicinity of an uncharged
  conducting plate.
  Sketch electric field lines originating from the point on to the surfaceof
  the plate.
@@ -486,7 +473,7 @@ Q12: A positive point charge (+ q) is kept in the vicinity of an uncharged
 \begin_layout Description
 
 \series bold
-Q1
+Q2
 \series default
 3: A thin conducting spherical shell of radius R has charge Q spread uniformly
  over its surface.
@@ -514,9 +501,9 @@ E
 \begin_layout Description
 
 \series bold
-Q1
+Q
 \series default
-4: Define the term 'electric dipole moment', Is it scalar or vector? 
+24: Define the term 'electric dipole moment', Is it scalar or vector? 
 \begin_inset Separator latexpar
 \end_inset
 
@@ -529,13 +516,13 @@ Deduce an expression for the electric field at a point on the equatorial
 \end_layout
 
 \begin_layout Description
-Q15: State Gauss's theorem in electrostatics.
+Q25: State Gauss's theorem in electrostatics.
  Apply this theorem to derive an expression for electric field intensity
  at a point near an infinitely long straight charged wire.
 \end_layout
 
 \begin_layout Description
-Q16: An electric dipole is held in a uniform electric field.
+Q26: An electric dipole is held in a uniform electric field.
  (i) Using suitable diagram, show that it does not undergo any translatory
  motion, and (ii) derive an expression for the torque acting on it and specify
  its direction.
@@ -556,19 +543,15 @@ Q: (a) Define the term 'electric flux' and write its dimensions.
 \end_inset
 
 .
- Find 
+ Find the electric flux through the surface.
 \end_layout
 
 \begin_layout Section*
 Section D
 \end_layout
 
-\begin_layout Section*
-Section E
-\end_layout
-
 \begin_layout Description
-Q17: (a) Using Gauss’ law, derive an expression for the electric field intensity
+Q29: (a) Using Gauss’ law, derive an expression for the electric field intensity
  at any point outside a uniformly charge thin spherical shell of radius
  R and charge densitys 
 \begin_inset Formula $\sigma C/m^{2}$
@@ -596,7 +579,7 @@ Q17: (a) Using Gauss’ law, derive an expression for the electric field intensi
 \end_layout
 
 \begin_layout Description
-Q18: Define the term dipole moment 
+Q30: Define the term dipole moment 
 \begin_inset Formula $\overrightarrow{p}$
 \end_inset
 
@@ -611,6 +594,97 @@ Q18: Define the term dipole moment
  In a particular situation, it has its dipole moment aligned with the electric
  field.
  Is the equilibrium stable or unstable ?
+\end_layout
+
+\begin_layout Section*
+Section E
+\end_layout
+
+\begin_layout Description
+Q31 : (i) Draw equipotential surfaces for an electric dipole.
+\end_layout
+
+\begin_layout Standard
+(ii) Two point charges 
+\begin_inset Formula $q_{1}$
+\end_inset
+
+ and 
+\begin_inset Formula $q_{2}$
+\end_inset
+
+ are located at 
+\begin_inset Formula $\vec{r_{1}}$
+\end_inset
+
+ and 
+\begin_inset Formula $\vec{r_{2}}$
+\end_inset
+
+ respectively in an external electric field 
+\begin_inset Formula $\vec{E}$
+\end_inset
+
+.
+ Obtain an expression for the potential energy of the system.
+\end_layout
+
+\begin_layout Standard
+(iii) The dipole moment of a molecule is 
+\begin_inset Formula $10^{-30}Cm$
+\end_inset
+
+.
+ It is placed in an electric field 
+\begin_inset Formula $\vec{E}$
+\end_inset
+
+ of 
+\begin_inset Formula $10^{5}V/m$
+\end_inset
+
+ such that it's axis is along the electric field.
+ The direction of 
+\begin_inset Formula $\vec{E}$
+\end_inset
+
+ is suddenly changed by 
+\begin_inset Formula $60^{o}$
+\end_inset
+
+ at an instant .
+ Find the change in the potential energy of the dipole, at that instant.
+\end_layout
+
+\begin_layout Standard
+OR
+\end_layout
+
+\begin_layout Standard
+Q : (i) A thin spherical shell of radius R has a uniform surface charge
+ density 
+\begin_inset Formula $\sigma$
+\end_inset
+
+ .
+ Using Gauss's law , deduce an expression for electric field (i) outside
+ and (ii) inside the shell.
+\end_layout
+
+\begin_layout Standard
+(ii) Two long straight thin wires AB and CD have linear charge densities
+ 
+\begin_inset Formula $10\:\mu C/m$
+\end_inset
+
+ and 
+\begin_inset Formula $-20\:\mu C/m$
+\end_inset
+
+, respectively.
+ They are kept parallel to each other at a distance 1 m.
+ Find the magnitude and direction of the net electric field at a point midway
+ between them.
 \end_layout
 
 \end_body

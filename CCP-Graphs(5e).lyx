@@ -26033,7 +26033,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/Common/Reduced/CurrentElectricity/subjective1.jpg
-	scale 75
+	scale 70
 
 \end_inset
 
@@ -26047,6 +26047,86 @@ status open
 
 \begin_layout Quote
 }
+\end_layout
+
+\begin_layout Standard
+Problem : The current/voltage relationship for two resistors A and B is
+ as shown in Figure 2.5.
+ Determine the value of the resistance of each resistor.
+\end_layout
+
+\begin_layout Quote
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "70col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename I:/Github/projects/Yaw/V-I 1.jpg
+	scale 70
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Question : Graphs of current against voltage for two resistors P and Q are
+ shown in Figure 2.6.
+ Determine the value of each resistor.
+\end_layout
+
+\begin_layout Quote
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "70col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename I:/Github/projects/Yaw/V-I 2.jpg
+	scale 70
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Chapter
